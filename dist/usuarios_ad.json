@@ -1,0 +1,5714 @@
+[
+    {
+        "Display Name": "teevo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "teevo"
+    },
+    {
+        "Display Name": "Markus Steffan Heydn",
+        "Telephone Number": "807",
+        "E-mail": "markus@coopershoes.com.br",
+        "OU": "Users",
+        "sAMAccountName": "markus"
+    },
+    {
+        "Display Name": "Elizandra Veloso",
+        "Telephone Number": "N/A",
+        "E-mail": "elizandra@coopershoes.com.br",
+        "OU": "Mecanica",
+        "sAMAccountName": "elizandra"
+    },
+    {
+        "Display Name": "JRL Ferreira",
+        "Telephone Number": "anderson@jrlferreira.com.br",
+        "E-mail": "N/A",
+        "OU": "JRL Ferreira",
+        "sAMAccountName": "rlferreira"
+    },
+    {
+        "Display Name": "FRANCISCA ELIANE FREITAS CAVALCANTE PAIVA",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "francisca.paiva"
+    },
+    {
+        "Display Name": "Milena Kunst",
+        "Telephone Number": "178",
+        "E-mail": "milena.kunst@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "milena.kunst"
+    },
+    {
+        "Display Name": "William Schmitt",
+        "Telephone Number": "N/A",
+        "E-mail": "william.schmitt@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "william.schmitt"
+    },
+    {
+        "Display Name": "Comelz Topshoes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "comelz.topshoes"
+    },
+    {
+        "Display Name": "Caroline Antonia Schwantes",
+        "Telephone Number": "N/A",
+        "E-mail": "caroline.antonia@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "caroline.antonia"
+    },
+    {
+        "Display Name": "Ellen Feiten",
+        "Telephone Number": "N/A",
+        "E-mail": "ellen.feiten@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "ellen.feiten"
+    },
+    {
+        "Display Name": "oracle Banco de dados",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "oracle"
+    },
+    {
+        "Display Name": "Raul Kronemayer",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Enfermaria",
+        "sAMAccountName": "raul"
+    },
+    {
+        "Display Name": "nfe Server NFE",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "nfe"
+    },
+    {
+        "Display Name": "zabbix chamado",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "zabbix"
+    },
+    {
+        "Display Name": "Diego Padilha Chigenoski",
+        "Telephone Number": "111",
+        "E-mail": "diego@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "diego"
+    },
+    {
+        "Display Name": "Felipe Breda",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Escritorio",
+        "sAMAccountName": "felipe.breda"
+    },
+    {
+        "Display Name": "Cesio Bauermann",
+        "Telephone Number": "210",
+        "E-mail": "cesio@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "cesio"
+    },
+    {
+        "Display Name": "Backup Robo ML3",
+        "Telephone Number": "N/A",
+        "E-mail": "backup_cooper@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "backup_cooper"
+    },
+    {
+        "Display Name": "KMAYER5",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER5"
+    },
+    {
+        "Display Name": "Tatiana Mesquita",
+        "Telephone Number": "420",
+        "E-mail": "tatiana.mesquita@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "tatiana.mesquita"
+    },
+    {
+        "Display Name": "Felipe Schneider",
+        "Telephone Number": "112",
+        "E-mail": "felipe@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "felipe"
+    },
+    {
+        "Display Name": "Rudinei Ernesto Zamboni",
+        "Telephone Number": "117",
+        "E-mail": "rudinei.zamboni@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "rudinei.zamboni"
+    },
+    {
+        "Display Name": "Alexandre Werle",
+        "Telephone Number": "174",
+        "E-mail": "alexandre.werle@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "alexandre.werle"
+    },
+    {
+        "Display Name": "Márcio Mielke",
+        "Telephone Number": "239",
+        "E-mail": "marcio.mielke@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "marcio.mielke"
+    },
+    {
+        "Display Name": "Tassiane Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "tassiane.silva@coopershoes.com.br",
+        "OU": "Cadastro",
+        "sAMAccountName": "tassiane.silva"
+    },
+    {
+        "Display Name": "Joni Barth",
+        "Telephone Number": "153",
+        "E-mail": "joni.barth@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "joni.barth"
+    },
+    {
+        "Display Name": "GL Diversos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "gldiversos"
+    },
+    {
+        "Display Name": "Nina",
+        "Telephone Number": "249",
+        "E-mail": "nina@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "nina"
+    },
+    {
+        "Display Name": "Joice Welter",
+        "Telephone Number": "298",
+        "E-mail": "joicew@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "joice_w"
+    },
+    {
+        "Display Name": "Marcio Hansen",
+        "Telephone Number": "245",
+        "E-mail": "marcio@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "marcio"
+    },
+    {
+        "Display Name": "Jéssica Graeff",
+        "Telephone Number": "246",
+        "E-mail": "jessica@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "jessica"
+    },
+    {
+        "Display Name": "Franciele Luise Schabarum",
+        "Telephone Number": "183",
+        "E-mail": "franciele.luise@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "franciele.luise"
+    },
+    {
+        "Display Name": "Aline Borscheid",
+        "Telephone Number": "238",
+        "E-mail": "aline@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "aline"
+    },
+    {
+        "Display Name": "Joel Mazza",
+        "Telephone Number": "181",
+        "E-mail": "joel@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "joel"
+    },
+    {
+        "Display Name": "Gelson Silva",
+        "Telephone Number": "185",
+        "E-mail": "gelson@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "gelson"
+    },
+    {
+        "Display Name": "Daiane Félix",
+        "Telephone Number": "228",
+        "E-mail": "daiane.felix@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "daiane.felix"
+    },
+    {
+        "Display Name": "Daniela",
+        "Telephone Number": "192",
+        "E-mail": "daniela@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "daniela"
+    },
+    {
+        "Display Name": "Ricardo Mielke",
+        "Telephone Number": "180",
+        "E-mail": "ricardo.mielke@coopershoes.com.br",
+        "OU": "Gerente",
+        "sAMAccountName": "ricardo.mielke"
+    },
+    {
+        "Display Name": "Roberto Santos",
+        "Telephone Number": "303",
+        "E-mail": "roberto.santos@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "roberto.santos"
+    },
+    {
+        "Display Name": "Ezequiel Jonas Vitt",
+        "Telephone Number": "149",
+        "E-mail": "ezequiell.vitt@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "ezequiel.vitt"
+    },
+    {
+        "Display Name": "Cleber Silva",
+        "Telephone Number": "279",
+        "E-mail": "cleber@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "cleber.silva"
+    },
+    {
+        "Display Name": "Vinicius Ritter Hansen",
+        "Telephone Number": "147",
+        "E-mail": "vinicius@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "vinicius"
+    },
+    {
+        "Display Name": "Eduardo Werle",
+        "Telephone Number": "241",
+        "E-mail": "eduardo@coopershoes.com.br",
+        "OU": "Programacao",
+        "sAMAccountName": "eduardo"
+    },
+    {
+        "Display Name": "Sidinei Lisboa",
+        "Telephone Number": "N/A",
+        "E-mail": "sidinei.lisboa@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "sidinei.lisboa"
+    },
+    {
+        "Display Name": "Safe Tech 2",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft2"
+    },
+    {
+        "Display Name": "Safe Tech 5",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft5"
+    },
+    {
+        "Display Name": "Safe Tech 6",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft6"
+    },
+    {
+        "Display Name": "Safe Tech",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft"
+    },
+    {
+        "Display Name": "SFT NFE - Servidor",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft.nfe"
+    },
+    {
+        "Display Name": "Safe Tech 3",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft3"
+    },
+    {
+        "Display Name": "Safe Tech 4",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft4"
+    },
+    {
+        "Display Name": "Safe Tech 8",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft8"
+    },
+    {
+        "Display Name": "Safe Tech 9",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft9"
+    },
+    {
+        "Display Name": "Safe Tech 7",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft7"
+    },
+    {
+        "Display Name": "Safe Tech 10",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft10"
+    },
+    {
+        "Display Name": "Safe Tech 1",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft1"
+    },
+    {
+        "Display Name": "Luiz Antonio de Paula",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "luiz.antonio"
+    },
+    {
+        "Display Name": "Jose Fabricio de Souza Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "fabricio.santos"
+    },
+    {
+        "Display Name": "Aline Heylmann",
+        "Telephone Number": "105",
+        "E-mail": "aline.heylmann@topshoescalcados.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "aline.heylmann"
+    },
+    {
+        "Display Name": "Francieli Moraes",
+        "Telephone Number": "141",
+        "E-mail": "francieli.moraes@coopershoes.com.br",
+        "OU": "Faturamento",
+        "sAMAccountName": "francieli.moraes"
+    },
+    {
+        "Display Name": "Leticia Braun",
+        "Telephone Number": "137",
+        "E-mail": "leticia@coopershoes.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "leticia.braun"
+    },
+    {
+        "Display Name": "Skype Gringo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Diretoria",
+        "sAMAccountName": "skype.gringo"
+    },
+    {
+        "Display Name": "Altamir Breda",
+        "Telephone Number": "130",
+        "E-mail": "gringo@coopershoes.com.br",
+        "OU": "Diretoria",
+        "sAMAccountName": "gringo"
+    },
+    {
+        "Display Name": "Rudinei",
+        "Telephone Number": "143",
+        "E-mail": "rudinei@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "rudinei"
+    },
+    {
+        "Display Name": "Luana Klock",
+        "Telephone Number": "152",
+        "E-mail": "luana@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "luana"
+    },
+    {
+        "Display Name": "Suelen Mewius",
+        "Telephone Number": "7724",
+        "E-mail": "suelen.mewius@topshoescalcados.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "suelen"
+    },
+    {
+        "Display Name": "Simone Bauer",
+        "Telephone Number": "183",
+        "E-mail": "simone.bauer@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "simone.bauer"
+    },
+    {
+        "Display Name": "Estevan Ubiratan Hansen",
+        "Telephone Number": "243",
+        "E-mail": "estevan.hansen@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "estevan.hansen"
+    },
+    {
+        "Display Name": "Atom",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "atom"
+    },
+    {
+        "Display Name": "serigrafia",
+        "Telephone Number": "227/270",
+        "E-mail": "serigrafia@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "serigrafia"
+    },
+    {
+        "Display Name": "Corte Ceara",
+        "Telephone Number": "9918",
+        "E-mail": "corte@coopershoes.com.br",
+        "OU": "Corte Converse",
+        "sAMAccountName": "corte_c"
+    },
+    {
+        "Display Name": "Michele Bock",
+        "Telephone Number": "130",
+        "E-mail": "michele@coopershoes.com.br",
+        "OU": "Recepcao",
+        "sAMAccountName": "michele"
+    },
+    {
+        "Display Name": "Eliana Port",
+        "Telephone Number": "N/A",
+        "E-mail": "eliana@coopershoes.com.br",
+        "OU": "Enfermaria",
+        "sAMAccountName": "eliana.port"
+    },
+    {
+        "Display Name": "Rubia Linck",
+        "Telephone Number": "N/A",
+        "E-mail": "fonorubia@coopershoes.com.br",
+        "OU": "Enfermaria",
+        "sAMAccountName": "rubia"
+    },
+    {
+        "Display Name": "Naiane Andrade Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "naiane.silva@coopershoes.com.br",
+        "OU": "Almox Fiscal",
+        "sAMAccountName": "naiane.silva"
+    },
+    {
+        "Display Name": "Mariza Veranopolis",
+        "Telephone Number": "N/A",
+        "E-mail": "mariza@coopershoes.com.br",
+        "OU": "Users",
+        "sAMAccountName": "mariza_v"
+    },
+    {
+        "Display Name": "Jose Ari de Oliveira Neto",
+        "Telephone Number": "7721",
+        "E-mail": "ari.oliveira@topshoescalcados.com.br",
+        "OU": "RH/DP",
+        "sAMAccountName": "ari.oliveira"
+    },
+    {
+        "Display Name": "Serigrafia Ceara",
+        "Telephone Number": "9968",
+        "E-mail": "serigrafia.ce@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "serigrafia.ce"
+    },
+    {
+        "Display Name": "Jose Jocivanio Ribeiro Sousa",
+        "Telephone Number": "7748",
+        "E-mail": "jose.ribeiro@topshoescalcados.com.br",
+        "OU": "Faturamento",
+        "sAMAccountName": "jose.jocivanio"
+    },
+    {
+        "Display Name": "Francisco das Chagas Silva Barbosa",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "EVA",
+        "sAMAccountName": "francisco.barbosa"
+    },
+    {
+        "Display Name": "Maria José Raulino Moura",
+        "Telephone Number": "9923",
+        "E-mail": "mariaraulino@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "Maria.Moura"
+    },
+    {
+        "Display Name": "Eline Girão",
+        "Telephone Number": "9991",
+        "E-mail": "eline.girao@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "eline.girao"
+    },
+    {
+        "Display Name": "Francielio da Costa Lima",
+        "Telephone Number": "9961",
+        "E-mail": "francielio@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "francielio"
+    },
+    {
+        "Display Name": "Almoxarifado Dia",
+        "Telephone Number": "9932",
+        "E-mail": "almoxarifado.ce@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "almoxdia"
+    },
+    {
+        "Display Name": "Adayla Sousa do Nascimento",
+        "Telephone Number": "9957",
+        "E-mail": "adayla.nascimento@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "adayla.nascimento"
+    },
+    {
+        "Display Name": "Jose Milton",
+        "Telephone Number": "9929",
+        "E-mail": "milton@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "jose.milton"
+    },
+    {
+        "Display Name": "Gessica Ingredy Mariano",
+        "Telephone Number": "7726",
+        "E-mail": "gessica.mariano@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "gessica.mariano"
+    },
+    {
+        "Display Name": "Distribuição",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "distribuicao_arg"
+    },
+    {
+        "Display Name": "Costura Ceara",
+        "Telephone Number": "9944",
+        "E-mail": "costura.ce@coopershoes.com.br",
+        "OU": "Costura",
+        "sAMAccountName": "costura.ceara"
+    },
+    {
+        "Display Name": "Maria José Chaves Silva",
+        "Telephone Number": "9963",
+        "E-mail": "maria.silva@coopershoes.com.br",
+        "OU": "Faturamento",
+        "sAMAccountName": "mariaj"
+    },
+    {
+        "Display Name": "Eduardo Valduga",
+        "Telephone Number": "N/A",
+        "E-mail": "eduardo_v@coopershoes.com.br",
+        "OU": "Enfermaria",
+        "sAMAccountName": "eduardo.valduga"
+    },
+    {
+        "Display Name": "Alberlucia da Costa Lima",
+        "Telephone Number": "9957",
+        "E-mail": "alberlucia@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "alberlucia"
+    },
+    {
+        "Display Name": "KMAYER3",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER3"
+    },
+    {
+        "Display Name": "Anne Karine Rabelo de Queiroz",
+        "Telephone Number": "7705",
+        "E-mail": "karine.queiroz@topshoeshoescalcados.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "anne"
+    },
+    {
+        "Display Name": "GESSON RABELO PINHEIRO",
+        "Telephone Number": "N/A",
+        "E-mail": "gesson.rabelo@coopershoes.com.br",
+        "OU": "Almox Componentes",
+        "sAMAccountName": "gesson.pinheiro"
+    },
+    {
+        "Display Name": "Raimundo Egidio Lima Neto",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "egidio.neto"
+    },
+    {
+        "Display Name": "Glaucimar Andrade de Brito",
+        "Telephone Number": "9920",
+        "E-mail": "glaucimar.andrade@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "glaucimar.brito"
+    },
+    {
+        "Display Name": "Fabiana Maria de Lima",
+        "Telephone Number": "9920",
+        "E-mail": "fabiana.lima@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "fabiana"
+    },
+    {
+        "Display Name": "Francisco Wendimar da Silva Cavalcante",
+        "Telephone Number": "9963",
+        "E-mail": "wendimar.silva@coopershoes.com.br",
+        "OU": "Faturamento",
+        "sAMAccountName": "francisco.cavalcante"
+    },
+    {
+        "Display Name": "Brena Kecia Lima e Silva",
+        "Telephone Number": "9969",
+        "E-mail": "brena.lima@coopershoes.com.br",
+        "OU": "Pcp Corte",
+        "sAMAccountName": "brena.silva"
+    },
+    {
+        "Display Name": "Cicero Ney Nobre de Sousa",
+        "Telephone Number": "980",
+        "E-mail": "cicero.ney@coopershoes.com.br",
+        "OU": "Reometria",
+        "sAMAccountName": "cicero"
+    },
+    {
+        "Display Name": "Joao Oseas Silva Saldanha",
+        "Telephone Number": "9921",
+        "E-mail": "oseas.silva@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "oseas.silva"
+    },
+    {
+        "Display Name": "KMAYER4",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER4"
+    },
+    {
+        "Display Name": "Gessica Carvalho Bandeira",
+        "Telephone Number": "N/A",
+        "E-mail": "gessica.bandeira@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "gessica.bandeira"
+    },
+    {
+        "Display Name": "Wilame",
+        "Telephone Number": "9969",
+        "E-mail": "willame@coopershoes.com.br",
+        "OU": "Almox Fiscal",
+        "sAMAccountName": "wilame"
+    },
+    {
+        "Display Name": "José Wilker de Almeida Girão",
+        "Telephone Number": "7706",
+        "E-mail": "jose.wilker@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "jose.wilker"
+    },
+    {
+        "Display Name": "Ovido Seijas",
+        "Telephone Number": "803",
+        "E-mail": "ovidio@coopershoes.com.br",
+        "OU": "Users",
+        "sAMAccountName": "ovidio"
+    },
+    {
+        "Display Name": "Danielle Brito do Nascimento Alves",
+        "Telephone Number": "N/A",
+        "E-mail": "danielle.brito@coopershoes.com.br",
+        "OU": "Almox Fiscal",
+        "sAMAccountName": "danielle.alves"
+    },
+    {
+        "Display Name": "Francisca Gerlandia da Silva Rodrigues de Aguiar",
+        "Telephone Number": "9981",
+        "E-mail": "gerlandia.rodrigues@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "gerlandia.rodrigues"
+    },
+    {
+        "Display Name": "KMAYER1",
+        "Telephone Number": "700",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "kmayer1"
+    },
+    {
+        "Display Name": "Leidiane Lima de Aguiar",
+        "Telephone Number": "9918",
+        "E-mail": "leidiane.aguiar@coopershoes.com.br",
+        "OU": "Corte Converse",
+        "sAMAccountName": "leidiane.aguiar"
+    },
+    {
+        "Display Name": "KMAYER7",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER7"
+    },
+    {
+        "Display Name": "KMAYER2",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER2"
+    },
+    {
+        "Display Name": "Edelmar",
+        "Telephone Number": "505",
+        "E-mail": "edelmar@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "edelmar"
+    },
+    {
+        "Display Name": "acab01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab01"
+    },
+    {
+        "Display Name": "Treis Consultoria",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "treis"
+    },
+    {
+        "Display Name": "Sala VIP",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "sala.vip"
+    },
+    {
+        "Display Name": "Maria Ana Cleide da Silva",
+        "Telephone Number": "9957",
+        "E-mail": "ana.silva@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "MariaCleide"
+    },
+    {
+        "Display Name": "Hellber Anastacio",
+        "Telephone Number": "9962",
+        "E-mail": "helber@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "hellber"
+    },
+    {
+        "Display Name": "KMAYER6",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "KMAYER6"
+    },
+    {
+        "Display Name": "acab02",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab02"
+    },
+    {
+        "Display Name": "Beatriz Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "beatriz.silva@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "beatriz.silva"
+    },
+    {
+        "Display Name": "eugenia",
+        "Telephone Number": "800",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "eugenia"
+    },
+    {
+        "Display Name": "Adriano Bamberg",
+        "Telephone Number": "822",
+        "E-mail": "adriano@coopershoes.com.br",
+        "OU": "Users",
+        "sAMAccountName": "adriano"
+    },
+    {
+        "Display Name": "Wagner Goetz",
+        "Telephone Number": "390",
+        "E-mail": "wagnerg@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "wagnerg"
+    },
+    {
+        "Display Name": "Anderson Dieter",
+        "Telephone Number": "237",
+        "E-mail": "andersondieter@coopershoes.com.br",
+        "OU": "Custos",
+        "sAMAccountName": "anderson_d"
+    },
+    {
+        "Display Name": "Lauricio Utzig",
+        "Telephone Number": "198",
+        "E-mail": "lauricio@coopershoes.com.br",
+        "OU": "Custos",
+        "sAMAccountName": "lauricio"
+    },
+    {
+        "Display Name": "Instron Lab",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Laboratorio",
+        "sAMAccountName": "instron"
+    },
+    {
+        "Display Name": "Laboratorio Converse",
+        "Telephone Number": "N/A",
+        "E-mail": "laboratorio@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "lab_converse"
+    },
+    {
+        "Display Name": "Ronnes Chaves",
+        "Telephone Number": "9956",
+        "E-mail": "ronnes.chaves@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "ronnes.chaves"
+    },
+    {
+        "Display Name": "Patricia Haag",
+        "Telephone Number": "175",
+        "E-mail": "patricia@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "patricia"
+    },
+    {
+        "Display Name": "Lab Dinamometro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Laboratorio",
+        "sAMAccountName": "lab.dinamometro"
+    },
+    {
+        "Display Name": "Jaqueline Michaelsen",
+        "Telephone Number": "177",
+        "E-mail": "jaqueline.michaelsen@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "jaqueline.michaelsen"
+    },
+    {
+        "Display Name": "Franciel Junges",
+        "Telephone Number": "203",
+        "E-mail": "franciel@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "franciel"
+    },
+    {
+        "Display Name": "Amarildo Bernardes",
+        "Telephone Number": "164",
+        "E-mail": "amarildo.bernardes@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "amarildo.bernardes"
+    },
+    {
+        "Display Name": "Helena Michaelsen",
+        "Telephone Number": "213",
+        "E-mail": "helena@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "helena"
+    },
+    {
+        "Display Name": "Anelise",
+        "Telephone Number": "259",
+        "E-mail": "anelise@coopershoes.com.br",
+        "OU": "Entrada CAT",
+        "sAMAccountName": "anelise"
+    },
+    {
+        "Display Name": "Michele Pauline Frohlich",
+        "Telephone Number": "281",
+        "E-mail": "michele.frohlich@coopershoes.com.br",
+        "OU": "Entrada CAT",
+        "sAMAccountName": "michele.frohlich"
+    },
+    {
+        "Display Name": "Rejane",
+        "Telephone Number": "233",
+        "E-mail": "rejane@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "rejane"
+    },
+    {
+        "Display Name": "leitura keds",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "leitura.keds"
+    },
+    {
+        "Display Name": "Jucelene Wickert Holz",
+        "Telephone Number": "N/A",
+        "E-mail": "jucelene.holz@topshoescalcados.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "jucelene.holz"
+    },
+    {
+        "Display Name": "Guilherme Thiele",
+        "Telephone Number": "636",
+        "E-mail": "guilherme.thiele@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "guilherme.thiele"
+    },
+    {
+        "Display Name": "Marcelo Campagnolo",
+        "Telephone Number": "204",
+        "E-mail": "marcelo@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "marcelo.campagnolo"
+    },
+    {
+        "Display Name": "Luceni",
+        "Telephone Number": "620",
+        "E-mail": "luceni@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "luceni"
+    },
+    {
+        "Display Name": "Amanda Holz",
+        "Telephone Number": "274",
+        "E-mail": "amanda.holz@coopershes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "amanda.holz"
+    },
+    {
+        "Display Name": "Alice Heck",
+        "Telephone Number": "615",
+        "E-mail": "alice.heck@coopershoes.com.br",
+        "OU": "Comercio Exterior",
+        "sAMAccountName": "alice.heck"
+    },
+    {
+        "Display Name": "Roselene Krohnbauer",
+        "Telephone Number": "207",
+        "E-mail": "roselene@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "roselene"
+    },
+    {
+        "Display Name": "Tatiana Musskopf",
+        "Telephone Number": "286",
+        "E-mail": "tatiana@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "tatiana"
+    },
+    {
+        "Display Name": "Marco Stoffel",
+        "Telephone Number": "107",
+        "E-mail": "marco@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "marco"
+    },
+    {
+        "Display Name": "José Regiano Rodrigues",
+        "Telephone Number": "7714",
+        "E-mail": "jose.rodrigues@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "jose.rodrigues"
+    },
+    {
+        "Display Name": "Cristina Gonzaga Gessner",
+        "Telephone Number": "N/A",
+        "E-mail": "cristina.gessner@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "cristina.gessner"
+    },
+    {
+        "Display Name": "Andreia Moraes",
+        "Telephone Number": "258",
+        "E-mail": "andreia.moraes@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "andreia_m"
+    },
+    {
+        "Display Name": "Marcia Hoffmann",
+        "Telephone Number": "135",
+        "E-mail": "marcia@coopershoes.com.br",
+        "OU": "Programacao",
+        "sAMAccountName": "marcia"
+    },
+    {
+        "Display Name": "Juliana Simone Antonio",
+        "Telephone Number": "627",
+        "E-mail": "juliana@topshoescalcados.com.br",
+        "OU": "Programacao",
+        "sAMAccountName": "juliana"
+    },
+    {
+        "Display Name": "almoxarifado topshoes",
+        "Telephone Number": "N/A",
+        "E-mail": "almoxarifado.conferenciamp@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "almoxarifadotop"
+    },
+    {
+        "Display Name": "Telefonista TOP",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Recepcao",
+        "sAMAccountName": "telefonistatop"
+    },
+    {
+        "Display Name": "Serigrafia Topshoes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "serigrafia.topshoes"
+    },
+    {
+        "Display Name": "Goretti Stacke",
+        "Telephone Number": "9940",
+        "E-mail": "goretti.stacke@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "goretti.stacke"
+    },
+    {
+        "Display Name": "Cleide Santos dos Reis",
+        "Telephone Number": "348",
+        "E-mail": "cleide@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "cleide"
+    },
+    {
+        "Display Name": "Elaine Schenkel",
+        "Telephone Number": "242",
+        "E-mail": "elaine@coopershoes.com.br",
+        "OU": "Diretoria",
+        "sAMAccountName": "elaine.schenkel"
+    },
+    {
+        "Display Name": "Joana",
+        "Telephone Number": "155",
+        "E-mail": "joana@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "joana"
+    },
+    {
+        "Display Name": "maq_corte",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "maq_corte"
+    },
+    {
+        "Display Name": "Carine",
+        "Telephone Number": "156",
+        "E-mail": "carine@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "carine"
+    },
+    {
+        "Display Name": "Sabrina Beatris Kuhn",
+        "Telephone Number": "276",
+        "E-mail": "sabrina.kunh@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "sabrina.kuhn"
+    },
+    {
+        "Display Name": "Rafael Dieter",
+        "Telephone Number": "209",
+        "E-mail": "rafael@coopershoes.com.br",
+        "OU": "Gerência",
+        "sAMAccountName": "rafael"
+    },
+    {
+        "Display Name": "Telefonista",
+        "Telephone Number": "100",
+        "E-mail": "telefonista@coopershoes.com.br",
+        "OU": "Recepcao",
+        "sAMAccountName": "telefonista"
+    },
+    {
+        "Display Name": "Deise Schorr",
+        "Telephone Number": "157",
+        "E-mail": "deise@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "deise.schorr"
+    },
+    {
+        "Display Name": "Ismael Rambo",
+        "Telephone Number": "299",
+        "E-mail": "ismael@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "ismael"
+    },
+    {
+        "Display Name": "Elisabete Helbing",
+        "Telephone Number": "194",
+        "E-mail": "elisabete@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "elisabete"
+    },
+    {
+        "Display Name": "Diego Guinzelli",
+        "Telephone Number": "240",
+        "E-mail": "diego.guinzelli@topshoescalcados.com.br",
+        "OU": "Desenvolvimento",
+        "sAMAccountName": "diego.guinzelli"
+    },
+    {
+        "Display Name": "Sandro Maldaner",
+        "Telephone Number": "164",
+        "E-mail": "sandro@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "sandrom"
+    },
+    {
+        "Display Name": "Diodi Teilor da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "diodi@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "diodi"
+    },
+    {
+        "Display Name": "Valdir Gessner",
+        "Telephone Number": "267",
+        "E-mail": "valdir.gessner@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "valdir.gessner"
+    },
+    {
+        "Display Name": "Julio Cesar",
+        "Telephone Number": "9957",
+        "E-mail": "julio@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "julio.cesar"
+    },
+    {
+        "Display Name": "Reginaldo Barros da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "reginaldo@coopershoes.com.br",
+        "OU": "Gerência",
+        "sAMAccountName": "reginaldo.barros"
+    },
+    {
+        "Display Name": "Mario Zappe",
+        "Telephone Number": "197 / 268",
+        "E-mail": "mario.zappe@coopershoes.com.br",
+        "OU": "Borracha",
+        "sAMAccountName": "mario_z"
+    },
+    {
+        "Display Name": "Karine Girão Andrade Beserra",
+        "Telephone Number": "9957",
+        "E-mail": "karine.girao@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "karine.beserra"
+    },
+    {
+        "Display Name": "Paulo Braun",
+        "Telephone Number": "310",
+        "E-mail": "paulo.braun@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "paulo.braun"
+    },
+    {
+        "Display Name": "Raimunda Ivonete Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "ivonete.lima"
+    },
+    {
+        "Display Name": "Carlos Didio",
+        "Telephone Number": "265",
+        "E-mail": "carlosdidio@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "carlos.didio"
+    },
+    {
+        "Display Name": "Joice Amanda Wamms",
+        "Telephone Number": "N/A",
+        "E-mail": "joice.amanda@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "joice.amanda"
+    },
+    {
+        "Display Name": "Reometro Solados",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "reometro"
+    },
+    {
+        "Display Name": "Hellen Gabriela Fecca",
+        "Telephone Number": "184",
+        "E-mail": "hellen.fecca@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "hellen.fecca"
+    },
+    {
+        "Display Name": "Joel Fritzen",
+        "Telephone Number": "283",
+        "E-mail": "joel.fritzen@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "joel.fritzen"
+    },
+    {
+        "Display Name": "Claudia",
+        "Telephone Number": "142",
+        "E-mail": "claudia@coopershoes.com.br",
+        "OU": "Programacao",
+        "sAMAccountName": "claudia"
+    },
+    {
+        "Display Name": "Jeison Petry",
+        "Telephone Number": "202",
+        "E-mail": "jeison@coopershoes.com.br",
+        "OU": "Mecanica",
+        "sAMAccountName": "jeison"
+    },
+    {
+        "Display Name": "Maria Arleide de Almeida",
+        "Telephone Number": "7708",
+        "E-mail": "borracha.ce@topsheoscalcados.com.br",
+        "OU": "Solados/Borracha",
+        "sAMAccountName": "arleide.almeida"
+    },
+    {
+        "Display Name": "Jose Gerliano Dias Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "jose.dias"
+    },
+    {
+        "Display Name": "Vitor Ribeiro da Silva",
+        "Telephone Number": "7781",
+        "E-mail": "vitor.silva@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "vitor.silva"
+    },
+    {
+        "Display Name": "Eduardo de Oliveira Moura",
+        "Telephone Number": "9987",
+        "E-mail": "eduardo.moura@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "eduardo.moura"
+    },
+    {
+        "Display Name": "Carla Zuhl",
+        "Telephone Number": "384",
+        "E-mail": "carla.zuhl@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "carla.zuhl"
+    },
+    {
+        "Display Name": "Tiago Henrique Braun",
+        "Telephone Number": "203",
+        "E-mail": "tiago@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "tiago.braun"
+    },
+    {
+        "Display Name": "Maria Nobre",
+        "Telephone Number": "9964",
+        "E-mail": "maria.nobre@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "maria.nobre"
+    },
+    {
+        "Display Name": "Ildeon da Silva Cavalcante",
+        "Telephone Number": "9942",
+        "E-mail": "ildeon@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "ildeoncavalcante"
+    },
+    {
+        "Display Name": "Gian Locks",
+        "Telephone Number": "208",
+        "E-mail": "gian@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "gian"
+    },
+    {
+        "Display Name": "Wagner Leandro Metz",
+        "Telephone Number": "254",
+        "E-mail": "wagner.metz@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "wagner.metz"
+    },
+    {
+        "Display Name": "Nei Everson da Motta",
+        "Telephone Number": "110",
+        "E-mail": "nei.motta@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "nei.e.motta"
+    },
+    {
+        "Display Name": "orcl",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "orcl"
+    },
+    {
+        "Display Name": "E- Social",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DP",
+        "sAMAccountName": "esocial"
+    },
+    {
+        "Display Name": "Saléria Lauxen",
+        "Telephone Number": "119",
+        "E-mail": "leia@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "leia"
+    },
+    {
+        "Display Name": "Alexandre Kuhn",
+        "Telephone Number": "171",
+        "E-mail": "alexandrekuhn@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "alexandre_k"
+    },
+    {
+        "Display Name": "Sivonei Rocha",
+        "Telephone Number": "170",
+        "E-mail": "rocha@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "sivonei"
+    },
+    {
+        "Display Name": "Bianca Teles",
+        "Telephone Number": "N/A",
+        "E-mail": "bianca.teles@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "bianca.teles"
+    },
+    {
+        "Display Name": "Simone Sidegum",
+        "Telephone Number": "165",
+        "E-mail": "simone@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "simone"
+    },
+    {
+        "Display Name": "Erik Holz",
+        "Telephone Number": "166",
+        "E-mail": "erik@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "erik"
+    },
+    {
+        "Display Name": "Alcemar Ciote",
+        "Telephone Number": "166",
+        "E-mail": "alcemar@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "alcemar.ciote"
+    },
+    {
+        "Display Name": "Aline Morais da Silva Kramer",
+        "Telephone Number": "253",
+        "E-mail": "aline.kramer@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "aline.kramer"
+    },
+    {
+        "Display Name": "Daiane Jahn Schleicher",
+        "Telephone Number": "253",
+        "E-mail": "daiane.jahn@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "daiane.schleicher"
+    },
+    {
+        "Display Name": "Daniela Laura Soares",
+        "Telephone Number": "248",
+        "E-mail": "daniela.soares@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "daniela.soares"
+    },
+    {
+        "Display Name": "Lidiane Cristina Kramer Heydt",
+        "Telephone Number": "271",
+        "E-mail": "lidiane.heydt@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "lidiane.heydt"
+    },
+    {
+        "Display Name": "Antonia Marilene de Oliveira Matos",
+        "Telephone Number": "7775",
+        "E-mail": "marilene.oliveira@topshoescalcados.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "marilene.matos"
+    },
+    {
+        "Display Name": "Aila Sonara",
+        "Telephone Number": "9957",
+        "E-mail": "aila@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "aila"
+    },
+    {
+        "Display Name": "acab08",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab08"
+    },
+    {
+        "Display Name": "Jose Thiago Chagas Saldanha",
+        "Telephone Number": "9953",
+        "E-mail": "thiago.saldanha@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "thiago.saldanha"
+    },
+    {
+        "Display Name": "Andreia Jecenara de Souza",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "andreia.souza"
+    },
+    {
+        "Display Name": "Rael Damasceno Maciel",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "lectra01"
+    },
+    {
+        "Display Name": "acab05",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab05"
+    },
+    {
+        "Display Name": "Guarita",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "guarita"
+    },
+    {
+        "Display Name": "Edilmara Costa de Lima",
+        "Telephone Number": "9971",
+        "E-mail": "edilmara.lima@coopershoes.com.br",
+        "OU": "Borracha",
+        "sAMAccountName": "edilmara.lima"
+    },
+    {
+        "Display Name": "Rodrigo Moers",
+        "Telephone Number": "282",
+        "E-mail": "rodrigo.moers@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "rodrigo.moers"
+    },
+    {
+        "Display Name": "Claudia Lamb",
+        "Telephone Number": "330",
+        "E-mail": "claudia.lamb@cooperhoes.com.br",
+        "OU": "Programacao de Etiquetas",
+        "sAMAccountName": "Claudia.lamb"
+    },
+    {
+        "Display Name": "Cleverson Silva",
+        "Telephone Number": "261",
+        "E-mail": "cleverson.silva@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "cleverson.silva"
+    },
+    {
+        "Display Name": "Rafaela Cristina Petter",
+        "Telephone Number": "232",
+        "E-mail": "rafaela.petter@coopershoes.com.br",
+        "OU": "Atelier",
+        "sAMAccountName": "rafaela.petter"
+    },
+    {
+        "Display Name": "Tais Bueno Moreira",
+        "Telephone Number": "N/A",
+        "E-mail": "tais.moreira@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "tais.moreira"
+    },
+    {
+        "Display Name": "Francisco Raniel Cavalcante",
+        "Telephone Number": "7743",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "raniel.cavalcante"
+    },
+    {
+        "Display Name": "Michel Zilles",
+        "Telephone Number": "9994",
+        "E-mail": "michel.zilles@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "michel.zilles"
+    },
+    {
+        "Display Name": "Estefani Fritsch Schafer",
+        "Telephone Number": "N/A",
+        "E-mail": "estefani.schafer@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "estefani.schafer"
+    },
+    {
+        "Display Name": "Alan Patrick Lisboa",
+        "Telephone Number": "N/A",
+        "E-mail": "alan.lisboa@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "alan.lisboa"
+    },
+    {
+        "Display Name": "Anderson Ramon Meisterlin",
+        "Telephone Number": "N/A",
+        "E-mail": "anderson.ramon@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "anderson.ramon"
+    },
+    {
+        "Display Name": "Indiretos Matriz",
+        "Telephone Number": "N/A",
+        "E-mail": "indiretosmtz@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "indiretosmtz"
+    },
+    {
+        "Display Name": "Erlane Nogueira dos Santos",
+        "Telephone Number": "9965",
+        "E-mail": "erlane.santos@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "erlane.santos"
+    },
+    {
+        "Display Name": "Fresadora Serigrafia",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "fresadora"
+    },
+    {
+        "Display Name": "GLPI AD",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "glpi.ad"
+    },
+    {
+        "Display Name": "Guilherme Kronbauer Hoffmann",
+        "Telephone Number": "237",
+        "E-mail": "guilherme.hoffmann@coopershoes.com.br",
+        "OU": "Custos",
+        "sAMAccountName": "Guilherme.Hoffmann"
+    },
+    {
+        "Display Name": "Montagem Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "montagem.ce"
+    },
+    {
+        "Display Name": "Luiz Henrique Oliveira Mendes",
+        "Telephone Number": "9927",
+        "E-mail": "henrique.mendes@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "henrique.mendes"
+    },
+    {
+        "Display Name": "Francisco Gleisson de Sousa",
+        "Telephone Number": "7702",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "gleisson.sousa"
+    },
+    {
+        "Display Name": "Luzinalda Katia Souza",
+        "Telephone Number": "7702",
+        "E-mail": "luzinalda.souza@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "luzinalda.souza"
+    },
+    {
+        "Display Name": "Glaucia Henrique de Mesquita Barros",
+        "Telephone Number": "7738",
+        "E-mail": "glaucia.barros@toprshoescalcados..com.br",
+        "OU": "Controle de E/S",
+        "sAMAccountName": "glaucia.henrique"
+    },
+    {
+        "Display Name": "Romans CAD",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Gabaritos",
+        "sAMAccountName": "romans.cad"
+    },
+    {
+        "Display Name": "Paulo Sidegum",
+        "Telephone Number": "150",
+        "E-mail": "paulo@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "paulo.sidegum"
+    },
+    {
+        "Display Name": "2D WEB  2",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "2D WEB",
+        "sAMAccountName": "2dweb02"
+    },
+    {
+        "Display Name": "Victor Emanuel Oliveira Costa",
+        "Telephone Number": "7707",
+        "E-mail": "manutencao.ce@topshoescalcados.com.br",
+        "OU": "Montagem",
+        "sAMAccountName": "victor.costa"
+    },
+    {
+        "Display Name": "Eduardo Andre Salla",
+        "Telephone Number": "N/A",
+        "E-mail": "eduardo.salla@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "eduardo.salla"
+    },
+    {
+        "Display Name": "acab06",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab06"
+    },
+    {
+        "Display Name": "Joab Martins Do Nascimento",
+        "Telephone Number": "7715",
+        "E-mail": "joab.nascimento@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "joab.nascimento"
+    },
+    {
+        "Display Name": "Edivando Silva",
+        "Telephone Number": "9946",
+        "E-mail": "edivando.silva@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "edivando.nascimento"
+    },
+    {
+        "Display Name": "Francisco David Cavalcante Silva",
+        "Telephone Number": "9997",
+        "E-mail": "david.silva@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "david.silva"
+    },
+    {
+        "Display Name": "acab07",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab07"
+    },
+    {
+        "Display Name": "Carolina Staudt Schafer",
+        "Telephone Number": "N/A",
+        "E-mail": "carolina.schafer@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "carolina.schafer"
+    },
+    {
+        "Display Name": "acabtop02",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop02"
+    },
+    {
+        "Display Name": "Elias Marcos Brill",
+        "Telephone Number": "127",
+        "E-mail": "elias.brill@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "elias.brill"
+    },
+    {
+        "Display Name": "acabtop04",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop04"
+    },
+    {
+        "Display Name": "Adriano Schwantes",
+        "Telephone Number": "N/A",
+        "E-mail": "adriano.schwantes@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "adriano.schwantes"
+    },
+    {
+        "Display Name": "Priscila Dieter",
+        "Telephone Number": "381",
+        "E-mail": "priscila.dieter@coopershoes.com.br",
+        "OU": "Cadastro",
+        "sAMAccountName": "priscila.dieter"
+    },
+    {
+        "Display Name": "Gessica Maria Brito de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "gessica.oliveira"
+    },
+    {
+        "Display Name": "Maria Danielly Silva Araujo",
+        "Telephone Number": "7715",
+        "E-mail": "maria.araujo@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "maria.araujo"
+    },
+    {
+        "Display Name": "Azyz",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "azyz"
+    },
+    {
+        "Display Name": "Roniely Rodrigues de Brito",
+        "Telephone Number": "9997",
+        "E-mail": "roniely.brito@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "roniely.brito"
+    },
+    {
+        "Display Name": "Bruna Raquel Rabelo Lima",
+        "Telephone Number": "9957",
+        "E-mail": "bruna.lima@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "bruna.lima"
+    },
+    {
+        "Display Name": "Ronald da Silva Mendonça",
+        "Telephone Number": "9957",
+        "E-mail": "ronald.mendonca@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "ronald.mendonca"
+    },
+    {
+        "Display Name": "Antonio Erivan Moreira de Sousa",
+        "Telephone Number": "9993",
+        "E-mail": "erivan.sousa@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "erivan.sousa"
+    },
+    {
+        "Display Name": "acabtop03",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop03"
+    },
+    {
+        "Display Name": "Rayane Batista Trindade",
+        "Telephone Number": "9923",
+        "E-mail": "rayane.trindade@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "rayane.trindade"
+    },
+    {
+        "Display Name": "Jadir Ram",
+        "Telephone Number": "115",
+        "E-mail": "jadir@coopershoes.com.br",
+        "OU": "Montagem",
+        "sAMAccountName": "jadir"
+    },
+    {
+        "Display Name": "Julio Cesar De Sena Neto",
+        "Telephone Number": "9922",
+        "E-mail": "julio.sena@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "julio.sena"
+    },
+    {
+        "Display Name": "Joel Magal Batista Damasceno",
+        "Telephone Number": "9915",
+        "E-mail": "joel.damasceno@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "joel.damasceno"
+    },
+    {
+        "Display Name": "2D WEB",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "2D WEB",
+        "sAMAccountName": "2dweb01"
+    },
+    {
+        "Display Name": "Valeria da Silva Pereira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "valeria.pereira"
+    },
+    {
+        "Display Name": "acabtop01",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop01"
+    },
+    {
+        "Display Name": "Alex Schaab",
+        "Telephone Number": "N/A",
+        "E-mail": "alex.schaab@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "Alex.Schaab"
+    },
+    {
+        "Display Name": "Tania Nedel",
+        "Telephone Number": "133",
+        "E-mail": "tania@coopershoes.com.br",
+        "OU": "Diretoria",
+        "sAMAccountName": "tania.nedel"
+    },
+    {
+        "Display Name": "Rodrigo Greco",
+        "Telephone Number": "N/A",
+        "E-mail": "rodrigo.greco@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "rodrigo.greco"
+    },
+    {
+        "Display Name": "André Zummach",
+        "Telephone Number": "224",
+        "E-mail": "andre.zummach@coopershoes.com.br",
+        "OU": "Borracha",
+        "sAMAccountName": "andre.zummach"
+    },
+    {
+        "Display Name": "Sulamita Suelen Maia",
+        "Telephone Number": "9921",
+        "E-mail": "sulamita.maia@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "sulamita.maia"
+    },
+    {
+        "Display Name": "Ricardo Carneiro de Oliveira",
+        "Telephone Number": "7714",
+        "E-mail": "ricardo.oliveira@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "ricardo.oliveira"
+    },
+    {
+        "Display Name": "Alysson Francisco Aragão de azevedo",
+        "Telephone Number": "7703",
+        "E-mail": "alysson.azevedo@topshoescalcados.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "alysson.azevedo"
+    },
+    {
+        "Display Name": "gps",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "coopergps"
+    },
+    {
+        "Display Name": "Alessandra Koch",
+        "Telephone Number": "140",
+        "E-mail": "alessandra.koch@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "alessandra.koch"
+    },
+    {
+        "Display Name": "Jemylle Ribeiro Muniz",
+        "Telephone Number": "9921",
+        "E-mail": "jemylle.muniz@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "jemylle.muniz"
+    },
+    {
+        "Display Name": "Vera Scheffler",
+        "Telephone Number": "216",
+        "E-mail": "vera.schneider@coopershoes.com.br",
+        "OU": "Notas",
+        "sAMAccountName": "vera.schneider"
+    },
+    {
+        "Display Name": "Joel Silva Santos",
+        "Telephone Number": "9921",
+        "E-mail": "joel.santos@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "joel.santos"
+    },
+    {
+        "Display Name": "Cristina Staudt",
+        "Telephone Number": "277",
+        "E-mail": "cristina.staudt@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "cristina.staudt"
+    },
+    {
+        "Display Name": "Antonia Sandy Andrade de Lima",
+        "Telephone Number": "9955",
+        "E-mail": "sandy.lima@coopershoes.com.br",
+        "OU": "DSO",
+        "sAMAccountName": "sandy.lima"
+    },
+    {
+        "Display Name": "Aluisio Kennedy  Pereira de Lima",
+        "Telephone Number": "9955",
+        "E-mail": "aluisio.lima@coopershoes.com.br",
+        "OU": "Medico",
+        "sAMAccountName": "aluisio.lima"
+    },
+    {
+        "Display Name": "Joice Camille Pinheiro",
+        "Telephone Number": "N/A",
+        "E-mail": "joice.pinheiro@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "joice.pinheiro"
+    },
+    {
+        "Display Name": "Olavo Rabelo Martins Neto",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "olavo.neto"
+    },
+    {
+        "Display Name": "Ivania Vanessa Silva Sousa",
+        "Telephone Number": "7702",
+        "E-mail": "N/A",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "ivania.sousa"
+    },
+    {
+        "Display Name": "Daniel Luiz Knorst",
+        "Telephone Number": "N/A",
+        "E-mail": "daniel.knorst@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "daniel.knorst"
+    },
+    {
+        "Display Name": "Diego Rodrigues de Oliveira",
+        "Telephone Number": "9936",
+        "E-mail": "diego.oliveira@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "diego.oliveira"
+    },
+    {
+        "Display Name": "Patricia Santos",
+        "Telephone Number": "222",
+        "E-mail": "patricia.santos@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "patricia.santos"
+    },
+    {
+        "Display Name": "Rafaela da Silva Sousa",
+        "Telephone Number": "7748",
+        "E-mail": "rafaela.sousa@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "rafaela.sousa"
+    },
+    {
+        "Display Name": "Jessica Batista de Jesus Menezes",
+        "Telephone Number": "7714",
+        "E-mail": "jessica.menezes@topshoescalcados.com.br",
+        "OU": "RH/DP",
+        "sAMAccountName": "jessica.menezes"
+    },
+    {
+        "Display Name": "Comelz Multimarcas",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "comelz.multi"
+    },
+    {
+        "Display Name": "comelz corte",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "comelz.corte"
+    },
+    {
+        "Display Name": "Comelz Model",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "comelz.model"
+    },
+    {
+        "Display Name": "Matheus Nedel",
+        "Telephone Number": "109",
+        "E-mail": "matheus.nedel@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "matheus.nedel"
+    },
+    {
+        "Display Name": "Costura 02 Ceara",
+        "Telephone Number": "9949",
+        "E-mail": "costura.ce2@coopershoes.com.br",
+        "OU": "Costura",
+        "sAMAccountName": "costura.ceara02"
+    },
+    {
+        "Display Name": "Kerven Lino Menezes",
+        "Telephone Number": "N/A",
+        "E-mail": "kerven.menezes@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "kerven.menezes"
+    },
+    {
+        "Display Name": "Aline Goncalves",
+        "Telephone Number": "221",
+        "E-mail": "aline.goncalves@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "aline.goncalves"
+    },
+    {
+        "Display Name": "Francisco ítalo Rufino da Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "italo.costa@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "francisco.costa"
+    },
+    {
+        "Display Name": "Reometria Solados",
+        "Telephone Number": "9971",
+        "E-mail": "solados.ce@coopershoes.com.br",
+        "OU": "Reometria",
+        "sAMAccountName": "reometria.ce"
+    },
+    {
+        "Display Name": "George Costa Pinheiro",
+        "Telephone Number": "9976",
+        "E-mail": "george.pinheiro@coopershoes.com.br",
+        "OU": "Injetora PU",
+        "sAMAccountName": "george.pinheiro"
+    },
+    {
+        "Display Name": "Marlene Braun",
+        "Telephone Number": "N/A",
+        "E-mail": "marlene.braun@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "marlene.braun"
+    },
+    {
+        "Display Name": "Francisca Aline Batista Trindade",
+        "Telephone Number": "N/A",
+        "E-mail": "aline.trindade@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "francisca.trindade"
+    },
+    {
+        "Display Name": "Anny Beatriz de Lima Andrade",
+        "Telephone Number": "9967",
+        "E-mail": "anny.andrade@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "anny.andrade"
+    },
+    {
+        "Display Name": "diogo lopes",
+        "Telephone Number": "N/A",
+        "E-mail": "diogo.lopes@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "diogo.lopes"
+    },
+    {
+        "Display Name": "Joaquim Ferreira de Sousa Neto",
+        "Telephone Number": "9981",
+        "E-mail": "joaquim.neto@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "joaquim.neto"
+    },
+    {
+        "Display Name": "Sebastiao Nogueira Freires Neto",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "sebastiao.neto"
+    },
+    {
+        "Display Name": "Antonia Jany De Sousa",
+        "Telephone Number": "7715",
+        "E-mail": "antonia.sousa@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "antonia.sousa"
+    },
+    {
+        "Display Name": "Ana Schabarum",
+        "Telephone Number": "N/A",
+        "E-mail": "ana.schabarum@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "ana.schabarum"
+    },
+    {
+        "Display Name": "Jaqueline Bento",
+        "Telephone Number": "N/A",
+        "E-mail": "jaqueline.bento@topshoescalcados.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "jaqueline.bento"
+    },
+    {
+        "Display Name": "Thayssa Sousa Silva",
+        "Telephone Number": "7714",
+        "E-mail": "thayssa.silva@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "thayssa.silva"
+    },
+    {
+        "Display Name": "Maxsoel Cavalcante da Costa",
+        "Telephone Number": "9962",
+        "E-mail": "maxsoel.costa@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "maxsoel.costa"
+    },
+    {
+        "Display Name": "Jose Vinicius Bezerra Sousa",
+        "Telephone Number": "7703",
+        "E-mail": "jose.sousa@topshoescalcados.com.br",
+        "OU": "Metodos e Processos",
+        "sAMAccountName": "jose.sousa"
+    },
+    {
+        "Display Name": "Alessandro Kelvin Freires Moura",
+        "Telephone Number": "9931",
+        "E-mail": "alessandro.moura@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "alessandro.moura"
+    },
+    {
+        "Display Name": "Thalita Hemille de Oliveira Lima",
+        "Telephone Number": "9931",
+        "E-mail": "thalita.hemille@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "thalita.lima"
+    },
+    {
+        "Display Name": "Marcos Levi Ribeiro e Silva",
+        "Telephone Number": "9931",
+        "E-mail": "levi.ribeiro@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "levi.ribeiro"
+    },
+    {
+        "Display Name": "João Paulo Pereira Rodrigues",
+        "Telephone Number": "9931",
+        "E-mail": "joao.paulo@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "joao.rodrigues"
+    },
+    {
+        "Display Name": "Lucivania Carneiro Dias",
+        "Telephone Number": "9920",
+        "E-mail": "lucivania.dias@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "lucivania.dias"
+    },
+    {
+        "Display Name": "Mark Villeneuve da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "mark.villeneuve@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "mark.villeneuve"
+    },
+    {
+        "Display Name": "Anderson Oliveira Martins",
+        "Telephone Number": "9931",
+        "E-mail": "anderson.martins@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "anderson.martins"
+    },
+    {
+        "Display Name": "Diego Beserra Viana",
+        "Telephone Number": "9965",
+        "E-mail": "diego.viana@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "diego.viana"
+    },
+    {
+        "Display Name": "Maria Aline Silva de Lemos",
+        "Telephone Number": "9951",
+        "E-mail": "aline.lemos@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "maria.lemos"
+    },
+    {
+        "Display Name": "Rosangela Roesler",
+        "Telephone Number": "N/A",
+        "E-mail": "rosangela.roesler@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "rosangela.roesler"
+    },
+    {
+        "Display Name": "Lydia Lawrenz",
+        "Telephone Number": "N/A",
+        "E-mail": "lydia.lawrenz@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "lydia.lawrenz"
+    },
+    {
+        "Display Name": "Mônica Thomé Henkel",
+        "Telephone Number": "N/A",
+        "E-mail": "monica.henkel@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "monica.henkel"
+    },
+    {
+        "Display Name": "Moises Elias Wickert",
+        "Telephone Number": "N/A",
+        "E-mail": "moises.wickert@coopershoes.com.br",
+        "OU": "Mecanica",
+        "sAMAccountName": "moises.wickert"
+    },
+    {
+        "Display Name": "Luis Marcelo Filipsen",
+        "Telephone Number": "N/A",
+        "E-mail": "marcelo.filipsen@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "luis.filipsen"
+    },
+    {
+        "Display Name": "Andre Conte",
+        "Telephone Number": "229",
+        "E-mail": "andre.conte@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "andre.conte"
+    },
+    {
+        "Display Name": "Amanda Vivian da Costa de Sousa",
+        "Telephone Number": "N/A",
+        "E-mail": "amanda.sousa@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "amanda.sousa"
+    },
+    {
+        "Display Name": "Geovana Sousa Cunha",
+        "Telephone Number": "7726",
+        "E-mail": "adm.almoxarifadoqx@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "geovana.cunha"
+    },
+    {
+        "Display Name": "Francico Roberio Medeiros de Sousa",
+        "Telephone Number": "N/A",
+        "E-mail": "roberio.sousa@coopershoes.com.br",
+        "OU": "Almox Componentes",
+        "sAMAccountName": "francisco.medeiros"
+    },
+    {
+        "Display Name": "Vanessa Cavalcante Freire",
+        "Telephone Number": "9951",
+        "E-mail": "vanessa.freire@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "vanessa.freire"
+    },
+    {
+        "Display Name": "Debora Sara de Souza",
+        "Telephone Number": "7727",
+        "E-mail": "debora.souza@topshoescalcados.com.br",
+        "OU": "Qualidade Topper/Rainha",
+        "sAMAccountName": "debora.souza"
+    },
+    {
+        "Display Name": "Marcia Elen Silva Maia",
+        "Telephone Number": "7727",
+        "E-mail": "N/A",
+        "OU": "Qualidade Topper/Rainha",
+        "sAMAccountName": "marcia.maia"
+    },
+    {
+        "Display Name": "Samara Honorato de Sousa",
+        "Telephone Number": "7716",
+        "E-mail": "N/A",
+        "OU": "Qualidade Topper/Rainha",
+        "sAMAccountName": "samara.sousa"
+    },
+    {
+        "Display Name": "Daniel Frank",
+        "Telephone Number": "188",
+        "E-mail": "daniel.frank@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "daniel.frank"
+    },
+    {
+        "Display Name": "Manoel Cabrera Silveira",
+        "Telephone Number": "N/A",
+        "E-mail": "manoel.silveira@coopershoes.com.br",
+        "OU": "Enfermaria",
+        "sAMAccountName": "manoel.silveira"
+    },
+    {
+        "Display Name": "Mateus de Freitas dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "mateus.freitas@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "mateus.freitas"
+    },
+    {
+        "Display Name": "Darlei Peiter",
+        "Telephone Number": "201",
+        "E-mail": "darlei.peiter@coopershoes.com.br",
+        "OU": "Mecanica",
+        "sAMAccountName": "darlei.peiter"
+    },
+    {
+        "Display Name": "Everaldo de Souza",
+        "Telephone Number": "N/A",
+        "E-mail": "everaldo.souza@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "everaldo.souza"
+    },
+    {
+        "Display Name": "Luciane Oliveira de Morais",
+        "Telephone Number": "N/A",
+        "E-mail": "luciane.morais@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "luciane.morais"
+    },
+    {
+        "Display Name": "Vitor Scheffler",
+        "Telephone Number": "160",
+        "E-mail": "vitor.scheffler@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "vitor.scheffler"
+    },
+    {
+        "Display Name": "Tatiane Peiter",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Entrada CAT",
+        "sAMAccountName": "tatiane.peiter"
+    },
+    {
+        "Display Name": "Cintia Valdriana de Jesus",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Entrada CAT",
+        "sAMAccountName": "cintia.jesus"
+    },
+    {
+        "Display Name": "Marcelo Saldanha Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "marcelo.saldanha@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "marcelo.costa"
+    },
+    {
+        "Display Name": "Vivian Nedel",
+        "Telephone Number": "139",
+        "E-mail": "vivian@coopershoes.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "vivian.nedel"
+    },
+    {
+        "Display Name": "Vitor Scheffler Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.vitor"
+    },
+    {
+        "Display Name": "Thalia Salomão Gasparotto",
+        "Telephone Number": "N/A",
+        "E-mail": "thalia.gasparotto@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "thalia.gasparotto"
+    },
+    {
+        "Display Name": "Samuela Deise Adam",
+        "Telephone Number": "N/A",
+        "E-mail": "samuela.adam@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "samuela.adam"
+    },
+    {
+        "Display Name": "Eder Braun",
+        "Telephone Number": "289",
+        "E-mail": "eder.braun@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "eder.braun"
+    },
+    {
+        "Display Name": "Luceni Wickert",
+        "Telephone Number": "158",
+        "E-mail": "luceni@topshoescalcados.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "luceni.wickert"
+    },
+    {
+        "Display Name": "Thomas Rodrigues Monassa",
+        "Telephone Number": "N/A",
+        "E-mail": "thomas.monassa@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "thomas.monassa"
+    },
+    {
+        "Display Name": "Camila Vieira",
+        "Telephone Number": "211",
+        "E-mail": "camila.vieira@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "camila.vieira"
+    },
+    {
+        "Display Name": "Diego Chigenoski Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.diego"
+    },
+    {
+        "Display Name": "Felipe Schneider Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.felipe"
+    },
+    {
+        "Display Name": "Matheus Nedel Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.matheus"
+    },
+    {
+        "Display Name": "Nei Motta Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.nei"
+    },
+    {
+        "Display Name": "Natalia Rabelo Silva Administrador",
+        "Telephone Number": "9908",
+        "E-mail": "natalia.silva@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "admin.natalia"
+    },
+    {
+        "Display Name": "Jose Evanilson de Lima Silva",
+        "Telephone Number": "9909",
+        "E-mail": "evanilson.silva@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "evanilson.silva"
+    },
+    {
+        "Display Name": "Natalia Rabelo Silva",
+        "Telephone Number": "9909",
+        "E-mail": "natalia.silva@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "natalia.silva"
+    },
+    {
+        "Display Name": "Jose Evanilson de Lima Silva Administrador",
+        "Telephone Number": "9909",
+        "E-mail": "evanilson.silva@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "admin.evanilson"
+    },
+    {
+        "Display Name": "Luciano Fritz",
+        "Telephone Number": "N/A",
+        "E-mail": "luciano.fritz@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "luciano.fritz"
+    },
+    {
+        "Display Name": "Josane Zimmermann",
+        "Telephone Number": "N/A",
+        "E-mail": "devolucoes@topshoescalcados.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "josane.zimmermann"
+    },
+    {
+        "Display Name": "Leticia Shabarum Junges",
+        "Telephone Number": "121",
+        "E-mail": "leticia.shabarum@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "leticia.junges"
+    },
+    {
+        "Display Name": "Geraldo Adson Lima da Silva",
+        "Telephone Number": "9985",
+        "E-mail": "geraldo.silva@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "geraldo.silva"
+    },
+    {
+        "Display Name": "Pedro Mateus Matos Martins",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "pedro.martins"
+    },
+    {
+        "Display Name": "Clevanice Bezerra Fernandes",
+        "Telephone Number": "9932",
+        "E-mail": "clevanice.fernandes@coopershoes.com.br",
+        "OU": "Almox Fiscal",
+        "sAMAccountName": "clevanice.fernandes"
+    },
+    {
+        "Display Name": "Jeferson Luiz Schmitt",
+        "Telephone Number": "9975",
+        "E-mail": "jeferson.schmitt@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "jeferson.schmitt"
+    },
+    {
+        "Display Name": "Breno Silva de Oliveira",
+        "Telephone Number": "9965",
+        "E-mail": "breno.oliveira@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "breno.oliveira"
+    },
+    {
+        "Display Name": "Abdalla Haddad",
+        "Telephone Number": "N/A",
+        "E-mail": "abdalla.haddad@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "abdalla.haddad"
+    },
+    {
+        "Display Name": "Skype Garibaldi",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Recepcao",
+        "sAMAccountName": "skype.garibaldi"
+    },
+    {
+        "Display Name": "Leonardo Welter",
+        "Telephone Number": "N/A",
+        "E-mail": "leonardo.welter@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "leonardo.welter"
+    },
+    {
+        "Display Name": "Gisele Neis",
+        "Telephone Number": "N/A",
+        "E-mail": "gisele.neis@coopershoes.com.br",
+        "OU": "Programacao",
+        "sAMAccountName": "gisele.neis"
+    },
+    {
+        "Display Name": "Daiane Cousseau",
+        "Telephone Number": "N/A",
+        "E-mail": "daiane.cousseau@cooeprshoes.com.br",
+        "OU": "Esteira 102",
+        "sAMAccountName": "daiane.cousseau"
+    },
+    {
+        "Display Name": "Ilário Garibaldi",
+        "Telephone Number": "N/A",
+        "E-mail": "ilariomanutencao@coopershoes.com.br",
+        "OU": "Mecanica",
+        "sAMAccountName": "ilario.gdi"
+    },
+    {
+        "Display Name": "Claryce Vieira de Souza",
+        "Telephone Number": "9931",
+        "E-mail": "claryce.souza@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "claryce.souza"
+    },
+    {
+        "Display Name": "Barbara Lorena da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "barbara.silva"
+    },
+    {
+        "Display Name": "Tayna Evelen Brito Andrade",
+        "Telephone Number": "7745",
+        "E-mail": "tayna.andrade@topshoescalcados.com.br",
+        "OU": "RH/DP",
+        "sAMAccountName": "tayna.andrade"
+    },
+    {
+        "Display Name": "Franklin Italo Cavalcante Prea",
+        "Telephone Number": "9957",
+        "E-mail": "franklin.prea@coopershoes.com.br",
+        "OU": "Pcp Corte",
+        "sAMAccountName": "franklin.prea"
+    },
+    {
+        "Display Name": "imp.financeiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Financeiro",
+        "sAMAccountName": "imp.financeiro"
+    },
+    {
+        "Display Name": "imp.dp",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DP",
+        "sAMAccountName": "imp.dp"
+    },
+    {
+        "Display Name": "imp.serigrafia",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "imp.serigrafia"
+    },
+    {
+        "Display Name": "imp.modelagem",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "imp.modelagem"
+    },
+    {
+        "Display Name": "imp.almox",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "imp.almox"
+    },
+    {
+        "Display Name": "imp.comercial",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Comercial",
+        "sAMAccountName": "imp.comercial"
+    },
+    {
+        "Display Name": "teste ti",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "teste.ti"
+    },
+    {
+        "Display Name": "imp.segurança",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SESMT",
+        "sAMAccountName": "imp.segurança"
+    },
+    {
+        "Display Name": "imp.pcp",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Programacao de Etiquetas",
+        "sAMAccountName": "imp.pcp"
+    },
+    {
+        "Display Name": "imp.compras",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Compras",
+        "sAMAccountName": "imp.compras"
+    },
+    {
+        "Display Name": "Francisca Kailane de Andrade",
+        "Telephone Number": "N/A",
+        "E-mail": "kailane.andrade@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "kailane.andrade"
+    },
+    {
+        "Display Name": "Juliana Pinto",
+        "Telephone Number": "N/A",
+        "E-mail": "juliana.pinto@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "juliana.pinto"
+    },
+    {
+        "Display Name": "BKP ARG",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "bkp.arg"
+    },
+    {
+        "Display Name": "imp.ti",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "imp.ti"
+    },
+    {
+        "Display Name": "veeam.backup",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "veeam.backup"
+    },
+    {
+        "Display Name": "Debora Utzig Lisboa",
+        "Telephone Number": "9942",
+        "E-mail": "debora.lisboa@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "debora.lisboa"
+    },
+    {
+        "Display Name": "Oracio Roque Fonseca da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "roque.silva"
+    },
+    {
+        "Display Name": "David Ykaro Valente Araujo",
+        "Telephone Number": "9890",
+        "E-mail": "david.araujo@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "david.araujo"
+    },
+    {
+        "Display Name": "Jonata Peiter",
+        "Telephone Number": "N/A",
+        "E-mail": "jonata.peiter@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "jonata.peiter"
+    },
+    {
+        "Display Name": "Daian  Soveral de Freitas",
+        "Telephone Number": "7706",
+        "E-mail": "daian.freitas@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "daian.freitas"
+    },
+    {
+        "Display Name": "Robert Ponath",
+        "Telephone Number": "N/A",
+        "E-mail": "robert.ponath@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "robert.ponath"
+    },
+    {
+        "Display Name": "Weverton Carneiro de Araujo",
+        "Telephone Number": "9903",
+        "E-mail": "weverton.araujo@coopershoes.com.br",
+        "OU": "Distribuição",
+        "sAMAccountName": "weverton.araujo"
+    },
+    {
+        "Display Name": "Renan Kohl",
+        "Telephone Number": "N/A",
+        "E-mail": "renan.kohl@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "renan.kohl"
+    },
+    {
+        "Display Name": "Lana Patricia Silva de Lima",
+        "Telephone Number": "9986",
+        "E-mail": "lana.lima@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "lana.lima"
+    },
+    {
+        "Display Name": "Shayla Alyci Pinto Silva",
+        "Telephone Number": "9930",
+        "E-mail": "shayla.silva@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "shayla.silva"
+    },
+    {
+        "Display Name": "Sandy dos Santos Januario",
+        "Telephone Number": "9925",
+        "E-mail": "sandy.januario@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "sandy.januario"
+    },
+    {
+        "Display Name": "Maria Zelandia Barroso de Sousa Nunes",
+        "Telephone Number": "9955",
+        "E-mail": "zelandia.nunes@coopershoes.com.br",
+        "OU": "DSO",
+        "sAMAccountName": "zelandia.nunes"
+    },
+    {
+        "Display Name": "Marcos Scarabotto",
+        "Telephone Number": "323",
+        "E-mail": "marcos.scaraboto@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "marcos.scarabotto"
+    },
+    {
+        "Display Name": "Camila Trich",
+        "Telephone Number": "323",
+        "E-mail": "camila.trich@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "camila.trich"
+    },
+    {
+        "Display Name": "Sanya Pinto Campos",
+        "Telephone Number": "9955",
+        "E-mail": "sanya.campos@coopershoes.com.br",
+        "OU": "Medico",
+        "sAMAccountName": "sanya.campos"
+    },
+    {
+        "Display Name": "Matheus Ribeiro Barreto",
+        "Telephone Number": "9931",
+        "E-mail": "matheus.barreto@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "matheus.barreto"
+    },
+    {
+        "Display Name": "Inácio Bruno dos Santos Freitas",
+        "Telephone Number": "9927",
+        "E-mail": "inacio.freitas@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "inacio.freitas"
+    },
+    {
+        "Display Name": "Quelen Moreira da Rosa",
+        "Telephone Number": "N/A",
+        "E-mail": "quelen.rosa@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "quelen.rosa"
+    },
+    {
+        "Display Name": "Valdeci Gomes De Azevedo",
+        "Telephone Number": "7777",
+        "E-mail": "valdeci.azevedo@topshoescalcados.com.br",
+        "OU": "Modelagem",
+        "sAMAccountName": "valdeci.azevedo"
+    },
+    {
+        "Display Name": "Tais Aline Kurtz Fagundes",
+        "Telephone Number": "N/A",
+        "E-mail": "tais.fagundes@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "tais.fagundes"
+    },
+    {
+        "Display Name": "Jeiffeson Darlan Da Costa Bandeira",
+        "Telephone Number": "7713",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "Jeiffeson.bandeira"
+    },
+    {
+        "Display Name": "Alex Nascimento",
+        "Telephone Number": "N/A",
+        "E-mail": "alex.nascimento@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "alex.nascimento"
+    },
+    {
+        "Display Name": "Jallysson Antônio Paiva Pereira",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "jallysson.pereira"
+    },
+    {
+        "Display Name": "Leticia dos Santos Moreira",
+        "Telephone Number": "N/A",
+        "E-mail": "leticia.moreira@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "leticia.moreira"
+    },
+    {
+        "Display Name": "Daniel Franklin Martins da Silva",
+        "Telephone Number": "7719",
+        "E-mail": "daniel.silva@topshoescalcados.com.br",
+        "OU": "Modelagem Topper/Rainha",
+        "sAMAccountName": "daniel.silva"
+    },
+    {
+        "Display Name": "Brendon Erick de Brito Leonardo",
+        "Telephone Number": "N/A",
+        "E-mail": "brendon.leonardo@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "brendon.leonardo"
+    },
+    {
+        "Display Name": "Jose Edinisio da Costa Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "edinisio.oliveira"
+    },
+    {
+        "Display Name": "Ronaldo Lopes de Souza",
+        "Telephone Number": "9931",
+        "E-mail": "ronaldo.souza@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "ronaldo.lopes"
+    },
+    {
+        "Display Name": "Luciano Tancredi",
+        "Telephone Number": "800",
+        "E-mail": "luciano.tancredi@coopershoes.com.br",
+        "OU": "Users",
+        "sAMAccountName": "luciano.tancredi"
+    },
+    {
+        "Display Name": "Francisco Charles da Silva Brindeiro",
+        "Telephone Number": "9971",
+        "E-mail": "charles.brindeiro@coopershoes.com.br",
+        "OU": "Borracha",
+        "sAMAccountName": "charles.brindeiro"
+    },
+    {
+        "Display Name": "Wilton Vieira da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "STI",
+        "sAMAccountName": "wilton.silva"
+    },
+    {
+        "Display Name": "Francisco Lucimauro Ribeiro de Lima",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "francisco.ribeiro"
+    },
+    {
+        "Display Name": "Liduina de Sousa Pereira",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "liduina.pereira"
+    },
+    {
+        "Display Name": "Diego Ismael Adams",
+        "Telephone Number": "N/A",
+        "E-mail": "diego.adams@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "diego.adams"
+    },
+    {
+        "Display Name": "Camila Samara Xavier Alves",
+        "Telephone Number": "7741",
+        "E-mail": "camila.alves@topshoescalcados.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "camila.alves"
+    },
+    {
+        "Display Name": "Tatiane Kerschner Spaniol",
+        "Telephone Number": "N/A",
+        "E-mail": "tatiane.spaniol@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "tatiane.spaniol"
+    },
+    {
+        "Display Name": "Roberta Oliveira Sousa",
+        "Telephone Number": "7709",
+        "E-mail": "ambulatorio@topshoescalcados.com.br",
+        "OU": "DSO",
+        "sAMAccountName": "roberta.sousa"
+    },
+    {
+        "Display Name": "Tenisio Scheffler",
+        "Telephone Number": "N/A",
+        "E-mail": "tenisio.scheffler@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "tenisio.scheffler"
+    },
+    {
+        "Display Name": "Dulce Maria de Sousa Gomes",
+        "Telephone Number": "7704",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "dulce.gomes"
+    },
+    {
+        "Display Name": "Leonardo da Silva Moreira Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "leonardo.oliveira"
+    },
+    {
+        "Display Name": "Carlos Alberto Franco Didio",
+        "Telephone Number": "N/A",
+        "E-mail": "carlos.franco@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "carlos.franco"
+    },
+    {
+        "Display Name": "Gabriela Canal",
+        "Telephone Number": "N/A",
+        "E-mail": "gabriela.canal@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "gabriela.canal"
+    },
+    {
+        "Display Name": "Indiana Marconi",
+        "Telephone Number": "N/A",
+        "E-mail": "indiana.marconi@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "indiana.marconi"
+    },
+    {
+        "Display Name": "Andressa Martins da Silva",
+        "Telephone Number": "9942",
+        "E-mail": "andressa.silva@coopershoes.com.br",
+        "OU": "Compras",
+        "sAMAccountName": "andressa.silva"
+    },
+    {
+        "Display Name": "Geovana Tais Jung",
+        "Telephone Number": "N/A",
+        "E-mail": "geovana.jung@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "geovana.jung"
+    },
+    {
+        "Display Name": "Kerolen Martins da Silva Soares",
+        "Telephone Number": "N/A",
+        "E-mail": "kerolen.soares@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "kerolen.soares"
+    },
+    {
+        "Display Name": "Leonardo Niewinski",
+        "Telephone Number": "N/A",
+        "E-mail": "leonardo.niewinski@coopershoes.com.br",
+        "OU": "Controladoria",
+        "sAMAccountName": "leonardo.niewinski"
+    },
+    {
+        "Display Name": "TI Matriz",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "ti.matriz"
+    },
+    {
+        "Display Name": "Silvana Monteiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "silvana.monteiro"
+    },
+    {
+        "Display Name": "Maria Rozivania de Sousa",
+        "Telephone Number": "7723",
+        "E-mail": "N/A",
+        "OU": "Controle de E/S",
+        "sAMAccountName": "maria.sousa"
+    },
+    {
+        "Display Name": "Sunsoft 01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "BGC",
+        "sAMAccountName": "sunsoft01"
+    },
+    {
+        "Display Name": "BGC 01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "BGC",
+        "sAMAccountName": "bgc01"
+    },
+    {
+        "Display Name": "BGC 02",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "BGC",
+        "sAMAccountName": "bgc02"
+    },
+    {
+        "Display Name": "BGC 03",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "BGC",
+        "sAMAccountName": "bgc03"
+    },
+    {
+        "Display Name": "Roberta Schaab",
+        "Telephone Number": "N/A",
+        "E-mail": "roberta.schaab@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "roberta.schaab"
+    },
+    {
+        "Display Name": "Caroline Roberta Silva Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "caroline.oliveira@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "caroline.oliveira"
+    },
+    {
+        "Display Name": "Carine Peiter",
+        "Telephone Number": "N/A",
+        "E-mail": "carine.peiter@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "carine.peiter"
+    },
+    {
+        "Display Name": "Maria de Fatima Barbosa de Sousa",
+        "Telephone Number": "9939",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "fatima.sousa"
+    },
+    {
+        "Display Name": "Gabriel Sousa Nogueira",
+        "Telephone Number": "9988",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "gabriel.nogueira"
+    },
+    {
+        "Display Name": "Leandro Bennemann",
+        "Telephone Number": "N/A",
+        "E-mail": "leandro.bennemann@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "leandro.bennemann"
+    },
+    {
+        "Display Name": "ECOMMES",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Ecommerce",
+        "sAMAccountName": "ecommes"
+    },
+    {
+        "Display Name": "DataColor",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Laboratorio",
+        "sAMAccountName": "data.color"
+    },
+    {
+        "Display Name": "Maira Janaina Ott",
+        "Telephone Number": "9925",
+        "E-mail": "maira.ott@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "maira.ott"
+    },
+    {
+        "Display Name": "Raimundo Reginaldo Freitas da Silva",
+        "Telephone Number": "7717",
+        "E-mail": "raimundo.silva@topshoescalcados.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "raimundo.silva"
+    },
+    {
+        "Display Name": "Francisco Mayson de Freitas Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "mayson.oliveira"
+    },
+    {
+        "Display Name": "Tech&Data Business",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Power BI",
+        "sAMAccountName": "norton.bi"
+    },
+    {
+        "Display Name": "Euclides Cruz",
+        "Telephone Number": "N/A",
+        "E-mail": "euclides.cruz@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "euclides.cruz"
+    },
+    {
+        "Display Name": "Sabrina Gomes de Carvalho",
+        "Telephone Number": "9921",
+        "E-mail": "sabrina.carvalho@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "sabrina.carvalho"
+    },
+    {
+        "Display Name": "Eva Ravelly Ferreira Lima",
+        "Telephone Number": "9939",
+        "E-mail": "eva.lima@coopershoes.com.br",
+        "OU": "Montagem",
+        "sAMAccountName": "eva.lima"
+    },
+    {
+        "Display Name": "João Victor Lima de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "victor.oliveira"
+    },
+    {
+        "Display Name": "Antonio Adriano Costa Mendes",
+        "Telephone Number": "N/A",
+        "E-mail": "adriano.mendes@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "adriano.mendes"
+    },
+    {
+        "Display Name": "Ingrid Castro",
+        "Telephone Number": "217",
+        "E-mail": "ingrid.castro@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "ingrid.castro"
+    },
+    {
+        "Display Name": "Alan Luz",
+        "Telephone Number": "388",
+        "E-mail": "alan.luz@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "alan.luz"
+    },
+    {
+        "Display Name": "Francisco Claudiano da Silva Diogenes",
+        "Telephone Number": "9924",
+        "E-mail": "claudiano.diogenes@coopershoes.com.br",
+        "OU": "Fonoaudiologia",
+        "sAMAccountName": "francisco.diogenes"
+    },
+    {
+        "Display Name": "Tuliana Cortez Diogenes",
+        "Telephone Number": "9992",
+        "E-mail": "tuliana.diogenes@coopershoes.com.br",
+        "OU": "Costura",
+        "sAMAccountName": "tuliana.diogenes"
+    },
+    {
+        "Display Name": "Maria Edinilsa da Silva Freitas",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "edinilsa.freitas"
+    },
+    {
+        "Display Name": "Jonyca Mikaella de Freitas Cavalcante",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "jonyca.cavalcante"
+    },
+    {
+        "Display Name": "Jose Maxwell Oliveria Soares",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "maxwell.soares"
+    },
+    {
+        "Display Name": "Maria Rizonete Silva de Almeida",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "rizonete.almeida"
+    },
+    {
+        "Display Name": "Vitoria Milena Pereira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "vitoria.pereira"
+    },
+    {
+        "Display Name": "Lorhany Nascimento de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "lorhany.oliveira@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "lorhany.oliveira"
+    },
+    {
+        "Display Name": "Regiano Cavalcante",
+        "Telephone Number": "N/A",
+        "E-mail": "regiano.cavalcante@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "regiano.cavalcante"
+    },
+    {
+        "Display Name": "Edemir Monteiro de Arruda",
+        "Telephone Number": "9993",
+        "E-mail": "edemir.arruda@coopershoes.com.br",
+        "OU": "Corte Converse",
+        "sAMAccountName": "edemir.arruda"
+    },
+    {
+        "Display Name": "Francisco Renê Andrade",
+        "Telephone Number": "N/A",
+        "E-mail": "rene.andrade@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "rene.andrade"
+    },
+    {
+        "Display Name": "Francisco Agnaldo de Oliveira",
+        "Telephone Number": "9988",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "francisco.oliveira"
+    },
+    {
+        "Display Name": "Marcos Felipe Brito Santos",
+        "Telephone Number": "7708",
+        "E-mail": "marcos.santos@topshoescalcados.om.br",
+        "OU": "Solados/Borracha",
+        "sAMAccountName": "marcos.santos"
+    },
+    {
+        "Display Name": "Adriano Costa Maciel",
+        "Telephone Number": "7776",
+        "E-mail": "adriano.maciel@topshoescalcados.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "adriano.maciel"
+    },
+    {
+        "Display Name": "Portal RH",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Metadados",
+        "sAMAccountName": "portal.rh"
+    },
+    {
+        "Display Name": "Francisco Renato Rodrigues do Nascimento",
+        "Telephone Number": "9967",
+        "E-mail": "francisco.nascimento@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "francisco.nascimento"
+    },
+    {
+        "Display Name": "Barbara Cardozo Zummach",
+        "Telephone Number": "N/A",
+        "E-mail": "barbara.zummach@coopershoes.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "barbara.zummach"
+    },
+    {
+        "Display Name": "Gustavo Heitor Fraga Lehrbac",
+        "Telephone Number": "N/A",
+        "E-mail": "gustavo.fraga@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "gustavo.fraga"
+    },
+    {
+        "Display Name": "Mathias Caua Wickert",
+        "Telephone Number": "113",
+        "E-mail": "mathias.wickert@coopershoes.com.br",
+        "OU": "TI",
+        "sAMAccountName": "mathias.wickert"
+    },
+    {
+        "Display Name": "Recebimento",
+        "Telephone Number": "N/A",
+        "E-mail": "recebimentomtz@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "recebimento"
+    },
+    {
+        "Display Name": "Kelly Joseane Fuhr",
+        "Telephone Number": "N/A",
+        "E-mail": "kelly.fuhr@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "kelly.fuhr"
+    },
+    {
+        "Display Name": "Alan Suckel",
+        "Telephone Number": "N/A",
+        "E-mail": "alan.suckel@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "alan.suckel"
+    },
+    {
+        "Display Name": "Victor Spaniol",
+        "Telephone Number": "N/A",
+        "E-mail": "victor.spaniol@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "victor.spaniol"
+    },
+    {
+        "Display Name": "Raimundo Airton da Costa",
+        "Telephone Number": "9976",
+        "E-mail": "airton.costa@coopershoes.com.br",
+        "OU": "Injetora PU",
+        "sAMAccountName": "airton.costa"
+    },
+    {
+        "Display Name": "Francine Carniel Vieira",
+        "Telephone Number": "297",
+        "E-mail": "francine.vieira@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "francine.vieira"
+    },
+    {
+        "Display Name": "Djenifer Ram",
+        "Telephone Number": "N/A",
+        "E-mail": "djenifer.ram@coopershoes.com.br",
+        "OU": "Cadastro",
+        "sAMAccountName": "djenifer.ram"
+    },
+    {
+        "Display Name": "Jessica Luz dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "jessica.luz@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "jessica.luz"
+    },
+    {
+        "Display Name": "Pablo Evandro Souza de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "pablo.oliveira@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "pablo.oliveira"
+    },
+    {
+        "Display Name": "Marcos Paulo Dapper",
+        "Telephone Number": "N/A",
+        "E-mail": "marcos.dapper@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "marcos.dapper"
+    },
+    {
+        "Display Name": "Maricio Schons",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "maricio.schons"
+    },
+    {
+        "Display Name": "Pedro Elias Kunzler",
+        "Telephone Number": "N/A",
+        "E-mail": "pedro.kunzler@coopershoes.com.br",
+        "OU": "SET",
+        "sAMAccountName": "pedro.kunzler"
+    },
+    {
+        "Display Name": "Luciane Graffunder",
+        "Telephone Number": "N/A",
+        "E-mail": "luciane.graffunder@coopershoes.com.br",
+        "OU": "Cadastro",
+        "sAMAccountName": "luciane.graffunder"
+    },
+    {
+        "Display Name": "Dionatan Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "dionatan.santos@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "dionatan.santos"
+    },
+    {
+        "Display Name": "Luisa Werle",
+        "Telephone Number": "105",
+        "E-mail": "luisa.werle@topshoescalcados.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "luisa.werle"
+    },
+    {
+        "Display Name": "Samanta Taisi Adam",
+        "Telephone Number": "N/A",
+        "E-mail": "samanta.adam@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "samanta.adam"
+    },
+    {
+        "Display Name": "Antônio Marcos Oliveira Mendes",
+        "Telephone Number": "7745",
+        "E-mail": "antonio.oliveira@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "antonio.oliveira"
+    },
+    {
+        "Display Name": "Tatiane Pedroso",
+        "Telephone Number": "N/A",
+        "E-mail": "tatiane.pedroso@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "tatiane.pedroso"
+    },
+    {
+        "Display Name": "Maria Eduarda de Oliveira da Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "maria.eduarda@coopershoes.com.br",
+        "OU": "Cadastro",
+        "sAMAccountName": "maria.eduarda"
+    },
+    {
+        "Display Name": "Francisco Fabio da Silva Pereira",
+        "Telephone Number": "9929",
+        "E-mail": "francisco.pereira@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "francisco.pereira"
+    },
+    {
+        "Display Name": "Tarcisio recarcati",
+        "Telephone Number": "9948",
+        "E-mail": "tarcisio.recarcati@coopershoes.com.br",
+        "OU": "Gerencia",
+        "sAMAccountName": "tarcisio.recarcati"
+    },
+    {
+        "Display Name": "RHTV",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Exeção GPO",
+        "sAMAccountName": "rh.tv"
+    },
+    {
+        "Display Name": "Eder da Silva Xavier",
+        "Telephone Number": "7711",
+        "E-mail": "eder.xavier@topshoescalcados.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "eder.xavier"
+    },
+    {
+        "Display Name": "Erico Martins Bessa",
+        "Telephone Number": "7709",
+        "E-mail": "erico.bessa@topshoescalcados.com.br",
+        "OU": "DSO",
+        "sAMAccountName": "erico.bessa"
+    },
+    {
+        "Display Name": "Marcia Cristine Schabarum",
+        "Telephone Number": "N/A",
+        "E-mail": "marcia.schabarum@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "marcia.schabarum"
+    },
+    {
+        "Display Name": "Leandro Klein",
+        "Telephone Number": "N/A",
+        "E-mail": "leandro.klein@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "leandro.klein"
+    },
+    {
+        "Display Name": "Marcelo Caceres",
+        "Telephone Number": "N/A",
+        "E-mail": "marcelo.caceres@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "marcelo.caceres"
+    },
+    {
+        "Display Name": "Francisca Raquel da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "raquel.silva"
+    },
+    {
+        "Display Name": "Stheffani Meinhart Machado",
+        "Telephone Number": "215",
+        "E-mail": "stheffani.machado@coopershoes.com.br",
+        "OU": "Notas",
+        "sAMAccountName": "stheffani.machado"
+    },
+    {
+        "Display Name": "Victor Emanuel Oliveira Costa",
+        "Telephone Number": "7707",
+        "E-mail": "victor.costa@topshoescalcados.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "voctor.costa"
+    },
+    {
+        "Display Name": "Skype Paulo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Financeiro",
+        "sAMAccountName": "skype.paulo"
+    },
+    {
+        "Display Name": "Auditorio",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Auditorio",
+        "sAMAccountName": "auditorio"
+    },
+    {
+        "Display Name": "Isabella Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "isabella.silva@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "isabella.silva"
+    },
+    {
+        "Display Name": "Gabriel de Sousa Dantas",
+        "Telephone Number": "9931",
+        "E-mail": "gabriel.dantas@coopershoes.com.br",
+        "OU": "MEP",
+        "sAMAccountName": "gabriel.dantas"
+    },
+    {
+        "Display Name": "Antonia Julia Maia Ferreira",
+        "Telephone Number": "7744",
+        "E-mail": "antonia.ferreira@topshoescalcados.com.br",
+        "OU": "RH/DP",
+        "sAMAccountName": "antonia.ferreira"
+    },
+    {
+        "Display Name": "Bruna Kunst",
+        "Telephone Number": "N/A",
+        "E-mail": "bruna.kunst@topshoescalcados.com.br",
+        "OU": "Recepcao",
+        "sAMAccountName": "bruna.kunst"
+    },
+    {
+        "Display Name": "Carlos Diego Rocha Rabelo",
+        "Telephone Number": "9982",
+        "E-mail": "carlos.rabelo@coopershoes.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "carlos.rabelo"
+    },
+    {
+        "Display Name": "Nivea Candeia Lopes Santos",
+        "Telephone Number": "7706",
+        "E-mail": "nivea.santos@topshoescalcados.com.br",
+        "OU": "Programacao de Producao",
+        "sAMAccountName": "nivea.santos"
+    },
+    {
+        "Display Name": "Safe Tech 11",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft11"
+    },
+    {
+        "Display Name": "Safe Tech 12",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft12"
+    },
+    {
+        "Display Name": "Safe Tech 13",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft13"
+    },
+    {
+        "Display Name": "Safe Tech 14",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft14"
+    },
+    {
+        "Display Name": "Safe Tech 15",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Safetech",
+        "sAMAccountName": "sft15"
+    },
+    {
+        "Display Name": "Francisco Narsegio Gomes",
+        "Telephone Number": "N/A",
+        "E-mail": "narsegio.gomes@coopershoes.com.br",
+        "OU": "Pre-Fabricado",
+        "sAMAccountName": "narsegio.gomes"
+    },
+    {
+        "Display Name": "Julia Stoffel",
+        "Telephone Number": "N/A",
+        "E-mail": "julia.stoffel@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "julia.stoffel"
+    },
+    {
+        "Display Name": "Antonio Rafael Furtuoso Dantas de Almeida",
+        "Telephone Number": "N/A",
+        "E-mail": "rafael.almeida@coopershoes.com.br",
+        "OU": "Montagem",
+        "sAMAccountName": "rafael.almeida"
+    },
+    {
+        "Display Name": "Maria de Fatima da Silva Souza",
+        "Telephone Number": "9919",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "fatima.souza"
+    },
+    {
+        "Display Name": "Aristoteles Aguiar Melo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "aristoteles.melo"
+    },
+    {
+        "Display Name": "Mariane da Cruz Weller",
+        "Telephone Number": "N/A",
+        "E-mail": "mariane.weller@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "mariane.weller"
+    },
+    {
+        "Display Name": "Mardone Vieira da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "mardone.silva@coopershos.com.br",
+        "OU": "Pre-Fabricado",
+        "sAMAccountName": "mardone.silva"
+    },
+    {
+        "Display Name": "Francisco Silvio Oliveira Sousa",
+        "Telephone Number": "7780",
+        "E-mail": "silvio.sousa@topshoescalcados.com.b",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "silvio.sousa"
+    },
+    {
+        "Display Name": "Antônio Gean Porfirio de Moura",
+        "Telephone Number": "7737",
+        "E-mail": "antonio.moura@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "antonio.moura"
+    },
+    {
+        "Display Name": "Paulo Sergio Ferreira de Assis",
+        "Telephone Number": "N/A",
+        "E-mail": "paulo.ferreira@coopershoes.com.br",
+        "OU": "DSO",
+        "sAMAccountName": "paulo.ferreira"
+    },
+    {
+        "Display Name": "Jose Ivan de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "ivan.oliveira"
+    },
+    {
+        "Display Name": "Ivan Chitolina",
+        "Telephone Number": "199",
+        "E-mail": "ivan@coopershoes.com.br",
+        "OU": "Custos",
+        "sAMAccountName": "ivan.chitolina"
+    },
+    {
+        "Display Name": "Aldenilson de Oliveira Carneiro",
+        "Telephone Number": "N/A",
+        "E-mail": "aldenilson.carneiro@coopershoes.com.br",
+        "OU": "Distribuicao",
+        "sAMAccountName": "aldenilson.carneiro"
+    },
+    {
+        "Display Name": "Kristiely Fernanda Cipriani",
+        "Telephone Number": "N/A",
+        "E-mail": "kristiely.cipriani@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "kristiely.cipriani"
+    },
+    {
+        "Display Name": "Rael Damasceno Maciel",
+        "Telephone Number": "9918",
+        "E-mail": "rael.maciel@coopershoes.com.br",
+        "OU": "Corte Converse",
+        "sAMAccountName": "rael.maciel"
+    },
+    {
+        "Display Name": "acabtop05",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop05"
+    },
+    {
+        "Display Name": "Carlos Junior Jung",
+        "Telephone Number": "N/A",
+        "E-mail": "carlos.jung@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "carlos.jung"
+    },
+    {
+        "Display Name": "sinc xml",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "sinc.xml"
+    },
+    {
+        "Display Name": "Maria Emanuella da Silva Paiva",
+        "Telephone Number": "9920",
+        "E-mail": "emanuella.paiva@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "emanuella.paiva"
+    },
+    {
+        "Display Name": "João Victor Lima Silva",
+        "Telephone Number": "7726",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "joao.silva"
+    },
+    {
+        "Display Name": "Gean Freitas de Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "gean.lima@coopershoes.com.br",
+        "OU": "Pcp Corte",
+        "sAMAccountName": "gean.lima"
+    },
+    {
+        "Display Name": "Jonas Sena Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "jonas.silva@coopershoes.com.br",
+        "OU": "Pcp Corte",
+        "sAMAccountName": "jonas.silva"
+    },
+    {
+        "Display Name": "Jose Fabricio Lima Menezes",
+        "Telephone Number": "N/A",
+        "E-mail": "7726",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "jose.menezes"
+    },
+    {
+        "Display Name": "Charles Henrique da Silva Moraes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "charles.moraes"
+    },
+    {
+        "Display Name": "Ivana Mogica",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "ivana.mogica"
+    },
+    {
+        "Display Name": "Mateo Zaro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "mateo.zaro"
+    },
+    {
+        "Display Name": "Daniel Cardozo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Users",
+        "sAMAccountName": "daniel.cardozo"
+    },
+    {
+        "Display Name": "Viviani Andréa Ely",
+        "Telephone Number": "N/A",
+        "E-mail": "viviani.ely@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "viviani.ely"
+    },
+    {
+        "Display Name": "Francisco Micael Pinheiro da Costa",
+        "Telephone Number": "9887",
+        "E-mail": "micael.costa@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "micael.costa"
+    },
+    {
+        "Display Name": "Evanildo da Silva Holanda",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "evanildo.holanda"
+    },
+    {
+        "Display Name": "teste.teevo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "teste.teevo"
+    },
+    {
+        "Display Name": "Melhoria Continua Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "melhoria.ce"
+    },
+    {
+        "Display Name": "Qualidade Ceará",
+        "Telephone Number": "9984",
+        "E-mail": "qualidade.ce@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "qualidade.ce"
+    },
+    {
+        "Display Name": "Vitoria Gislene da Silva Santiago",
+        "Telephone Number": "7780",
+        "E-mail": "vitoria.silva@topshoescalcados.com.br",
+        "OU": "Qualidade Topper/Rainha",
+        "sAMAccountName": "vitoria.silva"
+    },
+    {
+        "Display Name": "Ana Caroline dos Santos Arruda",
+        "Telephone Number": "9920",
+        "E-mail": "caroline.maia@coopershoes.com.br",
+        "OU": "RH",
+        "sAMAccountName": "caroline.maia"
+    },
+    {
+        "Display Name": "Vitor Manuel Cordeiro Anjos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "vitor.anjos"
+    },
+    {
+        "Display Name": "Aldelino Wagner Ferreira Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "EVA",
+        "sAMAccountName": "aldelino.lima"
+    },
+    {
+        "Display Name": "Jose Alyson Maia",
+        "Telephone Number": "9895",
+        "E-mail": "alyson.maia@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "alyson.maia"
+    },
+    {
+        "Display Name": "Herbene Martins de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "herbene.oliveira"
+    },
+    {
+        "Display Name": "Maria Padilha",
+        "Telephone Number": "N/A",
+        "E-mail": "maria.padilha@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "maria.padilha"
+    },
+    {
+        "Display Name": "Paulo Roberto Barros de Sousa",
+        "Telephone Number": "9980",
+        "E-mail": "paulo.sousa@coopershoes.com.br",
+        "OU": "Reometria",
+        "sAMAccountName": "paulo.sousa"
+    },
+    {
+        "Display Name": "Jose Glaucivan da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "RH",
+        "sAMAccountName": "glaucivan.silva"
+    },
+    {
+        "Display Name": "Cirlei Adams Recarcati",
+        "Telephone Number": "9935",
+        "E-mail": "cirlei.recarcati@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "cirlei.recarcati"
+    },
+    {
+        "Display Name": "Katia Fernanda Buss",
+        "Telephone Number": "N/A",
+        "E-mail": "katia.buss@coopershoes.com.br",
+        "OU": "Financeiro",
+        "sAMAccountName": "katia.buss"
+    },
+    {
+        "Display Name": "Bianca Cunha",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Entrada CAT",
+        "sAMAccountName": "bianca.cunha"
+    },
+    {
+        "Display Name": "MTZ Emma",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "mtz.emma"
+    },
+    {
+        "Display Name": "User Reuniôes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "user"
+    },
+    {
+        "Display Name": "Carlos Daniel de Sousa Lima",
+        "Telephone Number": "7713",
+        "E-mail": "carlos.lima@topshoescalcados.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "carlos.lima"
+    },
+    {
+        "Display Name": "Montagem Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "montagem.ceara"
+    },
+    {
+        "Display Name": "Jaqueline Trierweiler Morais",
+        "Telephone Number": "7702",
+        "E-mail": "jaqueline.moraes@topshoescalcados.com.br",
+        "OU": "Gerência",
+        "sAMAccountName": "jaqueline.moraes"
+    },
+    {
+        "Display Name": "Rodrigo da Silva Cavalcante",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "rodrigo.cavalcante"
+    },
+    {
+        "Display Name": "João Eudes Silva De Sousa",
+        "Telephone Number": "7704",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "joao.eudes"
+    },
+    {
+        "Display Name": "Firejet Ceara 01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "firejet.ce01"
+    },
+    {
+        "Display Name": "Vagas MN",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "RH",
+        "sAMAccountName": "vagasmn"
+    },
+    {
+        "Display Name": "Amauri Luiz",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Manutencao",
+        "sAMAccountName": "amauri"
+    },
+    {
+        "Display Name": "Tailine Krombauer Felicio",
+        "Telephone Number": "N/A",
+        "E-mail": "tailine.felicio@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "tailine.felicio"
+    },
+    {
+        "Display Name": "Fabiola Garcia  Eckerleben",
+        "Telephone Number": "N/A",
+        "E-mail": "fabiola.eckerleben@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "fabiola.eckerleben"
+    },
+    {
+        "Display Name": "Antônia Nayara Mesquita Da Silva",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "antonia.silva"
+    },
+    {
+        "Display Name": "Antonio Ferreira de Almeida Junior",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Distribuicao",
+        "sAMAccountName": "antonio.almeida"
+    },
+    {
+        "Display Name": "Firecut Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte Converse",
+        "sAMAccountName": "firecut.ce"
+    },
+    {
+        "Display Name": "Juliana de Araújo Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "juliana.lima"
+    },
+    {
+        "Display Name": "Marina Soares",
+        "Telephone Number": "N/A",
+        "E-mail": "marina.soares@coopershoes.com.br",
+        "OU": "Loja Fisica",
+        "sAMAccountName": "marina.soares"
+    },
+    {
+        "Display Name": "Pedro Victor Matos Freitas",
+        "Telephone Number": "9921",
+        "E-mail": "pedro.freitas@coopershoes.com.br",
+        "OU": "DP",
+        "sAMAccountName": "pedro.freitas"
+    },
+    {
+        "Display Name": "Naiara Andrade Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "naiara.silva"
+    },
+    {
+        "Display Name": "Raimunda Luerlandia de Oliveira Fernandes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "luerlandia.fernandes"
+    },
+    {
+        "Display Name": "Mathias Wickert Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.mathias"
+    },
+    {
+        "Display Name": "Egídio Martins Monteiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "egidio.monteiro"
+    },
+    {
+        "Display Name": "Francisco Isaias de Lima Junior",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Manutencao",
+        "sAMAccountName": "isaias.lima"
+    },
+    {
+        "Display Name": "Costura 03 Ceará",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "costura03.ce"
+    },
+    {
+        "Display Name": "Guisela Lautert Luersen",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "guisela.luersen"
+    },
+    {
+        "Display Name": "PDV01",
+        "Telephone Number": "N/A",
+        "E-mail": "gabriel.zamboni@makertec.com.br",
+        "OU": "Makertec",
+        "sAMAccountName": "pdv01"
+    },
+    {
+        "Display Name": "PDV02",
+        "Telephone Number": "N/A",
+        "E-mail": "suporte@makertec.com.br",
+        "OU": "Makertec",
+        "sAMAccountName": "pdv02"
+    },
+    {
+        "Display Name": "Dublagem Ceará",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "dublagem.ce"
+    },
+    {
+        "Display Name": "Daniella Mara Macena Rabelo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "daniella.rabelo"
+    },
+    {
+        "Display Name": "Meio Ambiente Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "meio.ambiente"
+    },
+    {
+        "Display Name": "Kesia Da Silva Ferreira",
+        "Telephone Number": "7717",
+        "E-mail": "kesia.ferreira@topshoescalcados.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "kesia.ferreira"
+    },
+    {
+        "Display Name": "Maria Claudenia Raulino Cavalcante",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "claudenia.cavalcante"
+    },
+    {
+        "Display Name": "Nayara de Oliveira Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "nayara.lima"
+    },
+    {
+        "Display Name": "José Alan Brito De Lima",
+        "Telephone Number": "7732",
+        "E-mail": "jose.brito@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "jose.brito"
+    },
+    {
+        "Display Name": "Sabrina Helena de Freitas Araujo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "sabrina.araujo"
+    },
+    {
+        "Display Name": "Felipe Ferreira Fortunato",
+        "Telephone Number": "7732",
+        "E-mail": "felipe.fortunato@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "felipe.fortunato"
+    },
+    {
+        "Display Name": "Airton Vidal Aguiar",
+        "Telephone Number": "7732",
+        "E-mail": "airton.aguiar@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "airton.aguiar"
+    },
+    {
+        "Display Name": "Joaquim Arnóbio Cavalcante de Brito Junior",
+        "Telephone Number": "7732",
+        "E-mail": "joaquin.junior@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "joaquim.junior"
+    },
+    {
+        "Display Name": "Franciele Nericke Sarturi",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Escritorio",
+        "sAMAccountName": "franciele.sarturi"
+    },
+    {
+        "Display Name": "Riquelmo de Lima Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "riquelmo.silva"
+    },
+    {
+        "Display Name": "Sergio Antonio Vieira de Aguiar",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Gerencia",
+        "sAMAccountName": "sergio.aguiar"
+    },
+    {
+        "Display Name": "server.bi",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "2D WEB",
+        "sAMAccountName": "server.bi"
+    },
+    {
+        "Display Name": "Lucas da Silva Sampaio",
+        "Telephone Number": "9979",
+        "E-mail": "lucas.sampaio@coopershoes.com.br",
+        "OU": "Pre-Fabricado",
+        "sAMAccountName": "lucas.sampaio"
+    },
+    {
+        "Display Name": "Jose Aleksandro Bezerra Moura",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "aleksandro.moura"
+    },
+    {
+        "Display Name": "Leandro Da Silva Moreira Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "leandro.oliveira@coopershoes.com.br",
+        "OU": "Pcp Corte",
+        "sAMAccountName": "leandro.oliveira"
+    },
+    {
+        "Display Name": "Francielma dos Santos Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DSO",
+        "sAMAccountName": "francielma.oliveira"
+    },
+    {
+        "Display Name": "David Emanuel de Lima Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "EVA",
+        "sAMAccountName": "david.santos"
+    },
+    {
+        "Display Name": "Priscila Pospichil",
+        "Telephone Number": "N/A",
+        "E-mail": "priscila.pospichil@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "priscila.pospichil"
+    },
+    {
+        "Display Name": "Distribuição Ceará 02",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Distribuição",
+        "sAMAccountName": "distribuicao.ce02"
+    },
+    {
+        "Display Name": "Borracha Ceará",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Borracha",
+        "sAMAccountName": "borracha.ce"
+    },
+    {
+        "Display Name": "Elen Taina Braun",
+        "Telephone Number": "N/A",
+        "E-mail": "elen.braun@coopershoes.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "elen.braun"
+    },
+    {
+        "Display Name": "Joao Vitor de Oliveira Queiroz",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "vitor.queiroz"
+    },
+    {
+        "Display Name": "Danilo Freitas",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte Converse",
+        "sAMAccountName": "danilo.freitas"
+    },
+    {
+        "Display Name": "Ronaldo Oliveira Filgueira",
+        "Telephone Number": "N/A",
+        "E-mail": "ronaldo.filgueira@coopershoes.com.br",
+        "OU": "Montagem",
+        "sAMAccountName": "ronaldo.filgueira"
+    },
+    {
+        "Display Name": "Iury Heldt",
+        "Telephone Number": "N/A",
+        "E-mail": "iury.heldt@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "iury.heldt"
+    },
+    {
+        "Display Name": "Maria Edna Gomes Silva",
+        "Telephone Number": "7778",
+        "E-mail": "maria.gomes@topshoescalcados.com.br",
+        "OU": "Qualidade Topper/Rainha",
+        "sAMAccountName": "maria.gomes"
+    },
+    {
+        "Display Name": "José Arthur Braun",
+        "Telephone Number": "N/A",
+        "E-mail": "arthur.braun@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "arthur.braun"
+    },
+    {
+        "Display Name": "Kaue Renan de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "kaue.oliveira@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "kaue.oliveira"
+    },
+    {
+        "Display Name": "Vitor Scheffler Teste",
+        "Telephone Number": "N/A",
+        "E-mail": "vitor.scheffler@hotmail.com",
+        "OU": "TI",
+        "sAMAccountName": "teste.vitor"
+    },
+    {
+        "Display Name": "Marcia Schabarum Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.marcia"
+    },
+    {
+        "Display Name": "Marina Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.marina"
+    },
+    {
+        "Display Name": "Rudinei Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.rudinei"
+    },
+    {
+        "Display Name": "Joana Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.joana"
+    },
+    {
+        "Display Name": "Katia Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.katia"
+    },
+    {
+        "Display Name": "Viviane Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.viviane"
+    },
+    {
+        "Display Name": "Tatiana Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.tatiana"
+    },
+    {
+        "Display Name": "Joao Isac da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "isac.silva"
+    },
+    {
+        "Display Name": "Yago Cavalcante Brito",
+        "Telephone Number": "9931",
+        "E-mail": "yago.brito@coopershoes.com.br",
+        "OU": "Costura",
+        "sAMAccountName": "yago.brito"
+    },
+    {
+        "Display Name": "FireJet",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "firejet"
+    },
+    {
+        "Display Name": "Expedicão Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "expedicao.ce"
+    },
+    {
+        "Display Name": "Joyce Rocha dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "joyce.santos"
+    },
+    {
+        "Display Name": "Francisco Wedson Maciel",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "wedson.maciel"
+    },
+    {
+        "Display Name": "Montagem Injetados",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "injetados"
+    },
+    {
+        "Display Name": "Nicolas Braun",
+        "Telephone Number": "N/A",
+        "E-mail": "nicolas.braun@coopershoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "nicolas.braun"
+    },
+    {
+        "Display Name": "Francisco Werlen De Lima Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "werlen.silva"
+    },
+    {
+        "Display Name": "José Domini Beserra Freitas",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "domini.freitas"
+    },
+    {
+        "Display Name": "Jose Francisco Honorato De Sousa",
+        "Telephone Number": "7726",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "jose.honorato"
+    },
+    {
+        "Display Name": "Erinaldo Lima De Sousa",
+        "Telephone Number": "7714",
+        "E-mail": "erinaldo.sousa@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "erinaldo.sousa"
+    },
+    {
+        "Display Name": "Viviane Rabelo Bessa Silva",
+        "Telephone Number": "7717",
+        "E-mail": "viviane.silva@topshoescalcados.com.br",
+        "OU": "SSMA",
+        "sAMAccountName": "viviane.silva"
+    },
+    {
+        "Display Name": "acab09",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acab09"
+    },
+    {
+        "Display Name": "Daniel Vieira da Trindade",
+        "Telephone Number": "N/A",
+        "E-mail": "daniel.trindade@coopershoes.com.br",
+        "OU": "Manutencao",
+        "sAMAccountName": "daniel.trindade"
+    },
+    {
+        "Display Name": "Dalgiano Lauro Machado",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "dalgiano.machado"
+    },
+    {
+        "Display Name": "Raimundo Douglas Silva Souza",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "douglas.silva"
+    },
+    {
+        "Display Name": "Geice Laiane de Freitas Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almox Componentes",
+        "sAMAccountName": "geice.oliveira"
+    },
+    {
+        "Display Name": "Jamilys Martins de Freitas",
+        "Telephone Number": "9984",
+        "E-mail": "jamilys.freitas@coopershoes.com.br",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "jamilys.freitas"
+    },
+    {
+        "Display Name": "Layanne Suely Cavalcante Santana",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "layanne.santana"
+    },
+    {
+        "Display Name": "FireJet Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.firejet"
+    },
+    {
+        "Display Name": "Marcio Deijane de Aquino",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "EVA",
+        "sAMAccountName": "marcio.aquino"
+    },
+    {
+        "Display Name": "Sandrine Loesch",
+        "Telephone Number": "N/A",
+        "E-mail": "sandrine.loesch@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "sandrine.loesch"
+    },
+    {
+        "Display Name": "Cleide Temporário",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Compras",
+        "sAMAccountName": "cleide.temp"
+    },
+    {
+        "Display Name": "Leandro Carvalho",
+        "Telephone Number": "N/A",
+        "E-mail": "leandro.carvalho@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "leandro.carvalho"
+    },
+    {
+        "Display Name": "Carina Tomassoni Andreazza",
+        "Telephone Number": "N/A",
+        "E-mail": "carina.andreazza@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "carina.andreazza"
+    },
+    {
+        "Display Name": "Luiz Jardel Rabelo",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "luiz.rabelo"
+    },
+    {
+        "Display Name": "Debora Cristina Sousa Assis",
+        "Telephone Number": "7700",
+        "E-mail": "debora.assis@topshoescalcados.com.br",
+        "OU": "Recepção",
+        "sAMAccountName": "debora.assis"
+    },
+    {
+        "Display Name": "Maria Eduarda Milan Hanke Pereira",
+        "Telephone Number": "N/A",
+        "E-mail": "eduarda.pereira@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "eduarda.pereira"
+    },
+    {
+        "Display Name": "Gilvane Heineck",
+        "Telephone Number": "N/A",
+        "E-mail": "gilvane.heineck@coopershoes.com.br",
+        "OU": "Modelagem Multimarcas",
+        "sAMAccountName": "gilvane.heineck"
+    },
+    {
+        "Display Name": "Firecut Ceara02",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte Converse",
+        "sAMAccountName": "firecut.ce02"
+    },
+    {
+        "Display Name": "Samanta Adam Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.samanta"
+    },
+    {
+        "Display Name": "Victor Sousa Sales",
+        "Telephone Number": "7725",
+        "E-mail": "victor.sales@topshoescalcados.com.br",
+        "OU": "CPP",
+        "sAMAccountName": "victor.sales"
+    },
+    {
+        "Display Name": "Deise Schorr Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.deise"
+    },
+    {
+        "Display Name": "Altamiro Francisco Bernardes",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "altamiro.bernardes"
+    },
+    {
+        "Display Name": "Lucas Santos da Silva",
+        "Telephone Number": "9932",
+        "E-mail": "lucas.silva@coopershoes.com.br",
+        "OU": "Almox Fiscal",
+        "sAMAccountName": "lucas.silva"
+    },
+    {
+        "Display Name": "Lisete Reisner",
+        "Telephone Number": "360",
+        "E-mail": "lisete.reisner@coopershoes.com.br",
+        "OU": "SESMT",
+        "sAMAccountName": "lisete.reisner"
+    },
+    {
+        "Display Name": "Ellen Prado",
+        "Telephone Number": "N/A",
+        "E-mail": "ellen.prado@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "ellen.prado"
+    },
+    {
+        "Display Name": "Emanoeli Cristina Nobre da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "emanoeli.silva"
+    },
+    {
+        "Display Name": "Magno Araujo",
+        "Telephone Number": "N/A",
+        "E-mail": "magno.araujo@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "magno.araujo"
+    },
+    {
+        "Display Name": "Francisca Aldenice Raulino de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "aldenice.oliveira"
+    },
+    {
+        "Display Name": "Joao Mateus Batista dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "mateus.santos"
+    },
+    {
+        "Display Name": "Andre Luiz Lima Belmino",
+        "Telephone Number": "9929",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "andre.belmino"
+    },
+    {
+        "Display Name": "Thiago da silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "thiago.silva"
+    },
+    {
+        "Display Name": "Mirela Magna de Freitas Alencar",
+        "Telephone Number": "9929",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "mirela.alencar"
+    },
+    {
+        "Display Name": "Bruno Pereira Inacio",
+        "Telephone Number": "9929",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "bruno.inacio"
+    },
+    {
+        "Display Name": "Amanda De Deus Pinheiro",
+        "Telephone Number": "7702",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "amanda.pinheiro"
+    },
+    {
+        "Display Name": "Janaina Stasiak Rautenberg",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Escritorio",
+        "sAMAccountName": "janaina.rautenberg"
+    },
+    {
+        "Display Name": "Jhean Monteiro",
+        "Telephone Number": "N/A",
+        "E-mail": "jhean.monteiro@topshoescalcados.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "jhean.monteiro"
+    },
+    {
+        "Display Name": "Costura Programada",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "costura.programada"
+    },
+    {
+        "Display Name": "acabtop06",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Acabamento",
+        "sAMAccountName": "acabtop06"
+    },
+    {
+        "Display Name": "Helen Leal",
+        "Telephone Number": "N/A",
+        "E-mail": "helen.leal@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "helen.leal"
+    },
+    {
+        "Display Name": "Filipe Brito de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "filipe.oliveira"
+    },
+    {
+        "Display Name": "Maximo Junior da Silva Soares",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "maximo.soares"
+    },
+    {
+        "Display Name": "Hercules Silverio De Almeida",
+        "Telephone Number": "7738",
+        "E-mail": "N/A",
+        "OU": "Controle de E/S",
+        "sAMAccountName": "hercules.almeida"
+    },
+    {
+        "Display Name": "Areni Reis",
+        "Telephone Number": "218",
+        "E-mail": "couros@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "areni.reis"
+    },
+    {
+        "Display Name": "Francisca Joelma Nogueira Peixoto",
+        "Telephone Number": "7720",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "francisca.peixoto"
+    },
+    {
+        "Display Name": "Mateus Borges Nogueira da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "mateus.silva"
+    },
+    {
+        "Display Name": "Gefesson Silva de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "gefesson.oliveira"
+    },
+    {
+        "Display Name": "Isabela Pacheco",
+        "Telephone Number": "N/A",
+        "E-mail": "pacheco.isabela@coopershoes.com.br",
+        "OU": "Show Room",
+        "sAMAccountName": "isabela.pacheco"
+    },
+    {
+        "Display Name": "Alan Wanderson Lima de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "alan.oliveira"
+    },
+    {
+        "Display Name": "Cassio Weber",
+        "Telephone Number": "N/A",
+        "E-mail": "cassio.weber@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "cassio.weber"
+    },
+    {
+        "Display Name": "Aliliane de Sousa Nobre",
+        "Telephone Number": "N/A",
+        "E-mail": "aliliane.nobre@coopershoes.com.br",
+        "OU": "Solados",
+        "sAMAccountName": "aliliane.nobre"
+    },
+    {
+        "Display Name": "Merilin Hoffmann",
+        "Telephone Number": "N/A",
+        "E-mail": "merilin.hoffmann@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "merilin.hoffmann"
+    },
+    {
+        "Display Name": "Bruna Schons",
+        "Telephone Number": "N/A",
+        "E-mail": "bruna.schons@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "bruna.schons"
+    },
+    {
+        "Display Name": "Topshoes Ceará",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Recepção",
+        "sAMAccountName": "topshoes.ce"
+    },
+    {
+        "Display Name": "Wangleidson Oliveira da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Expedicao",
+        "sAMAccountName": "wangleidson.silva"
+    },
+    {
+        "Display Name": "Francisca Jarlenia Amancio da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "jarlenia.silva"
+    },
+    {
+        "Display Name": "Anderson Jair",
+        "Telephone Number": "N/A",
+        "E-mail": "anderson.jair@coopershoes.com.br",
+        "OU": "Custos",
+        "sAMAccountName": "anderson.jair"
+    },
+    {
+        "Display Name": "Atom Ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "atom.ce"
+    },
+    {
+        "Display Name": "Atom06s ceara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "atom06s.ce"
+    },
+    {
+        "Display Name": "Atom Flash Cut",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "atom.flashcut"
+    },
+    {
+        "Display Name": "Gustavo de Vargas Nunes",
+        "Telephone Number": "N/A",
+        "E-mail": "gustavo.nunes@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "gustavo.nunes"
+    },
+    {
+        "Display Name": "Francisco Zilan da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Solados",
+        "sAMAccountName": "zilan.silva"
+    },
+    {
+        "Display Name": "Emileine Araujo",
+        "Telephone Number": "N/A",
+        "E-mail": "emileine.araujo@coopershoes.com.br",
+        "OU": "Modelagem Tecnica I",
+        "sAMAccountName": "emileine.araujo"
+    },
+    {
+        "Display Name": "Daniel Franklin Martins da Silva",
+        "Telephone Number": "9989",
+        "E-mail": "daniel.martins@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "daniel.martins"
+    },
+    {
+        "Display Name": "Fernando Flor de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "fernando.oliveira@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "fernando.oliveira"
+    },
+    {
+        "Display Name": "Thevila Braga da Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "thevila.braga"
+    },
+    {
+        "Display Name": "Mateus Freitas Administrador",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Usuarios Administradores",
+        "sAMAccountName": "admin.mateusfreitas"
+    },
+    {
+        "Display Name": "Maria Melo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "maria.melo"
+    },
+    {
+        "Display Name": "Thevila Braga da Costa Administrador",
+        "Telephone Number": "9910",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.thevila"
+    },
+    {
+        "Display Name": "Mayk Rodrigues Cavalcante",
+        "Telephone Number": "9967",
+        "E-mail": "mayk.cavalcante@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "mayk.cavalcante"
+    },
+    {
+        "Display Name": "Joao Alex Cardozo",
+        "Telephone Number": "9856",
+        "E-mail": "joao.cardozo@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "joao.cardozo"
+    },
+    {
+        "Display Name": "Daniele Gerlach",
+        "Telephone Number": "183",
+        "E-mail": "daniele.gerlach@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "daniele.gerlach"
+    },
+    {
+        "Display Name": "Francisca Josefa Mirleuanne Martins",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Qualidade Converse",
+        "sAMAccountName": "mirleuanne.martins"
+    },
+    {
+        "Display Name": "Corte Comelz 01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "comelz01"
+    },
+    {
+        "Display Name": "Tarles Denes Sousa Soares",
+        "Telephone Number": "tarles.soares@topshoescalcados.com.br",
+        "E-mail": "7731",
+        "OU": "Metodos e Processos",
+        "sAMAccountName": "tarles.soares"
+    },
+    {
+        "Display Name": "Firejet Ceara 05",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "firejet.ce05"
+    },
+    {
+        "Display Name": "Nicolas Ribeiro Mendonça",
+        "Telephone Number": "nicolas.mendonca@topshoescalcados.com.br",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "nicolas.mendonca"
+    },
+    {
+        "Display Name": "Bruno Augusto de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Loja Fisica",
+        "sAMAccountName": "bruno.oliveira"
+    },
+    {
+        "Display Name": "Francisco Miguel da Silva Vieira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almox Componentes",
+        "sAMAccountName": "miguel.vieira"
+    },
+    {
+        "Display Name": "Jonathan Da Silva",
+        "Telephone Number": "7785",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "jonathan.silva"
+    },
+    {
+        "Display Name": "Cristina de Assunção",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Escritorio",
+        "sAMAccountName": "cristina.assunçao"
+    },
+    {
+        "Display Name": "Maychon Weendhel Silva Costa",
+        "Telephone Number": "7779",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "maychon.costa"
+    },
+    {
+        "Display Name": "Vitor Lima Cesário",
+        "Telephone Number": "7779",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "vitor.cesario"
+    },
+    {
+        "Display Name": "Maria Lurdenes Sousa",
+        "Telephone Number": "7779",
+        "E-mail": "N/A",
+        "OU": "Montagem",
+        "sAMAccountName": "maria.lurdenes"
+    },
+    {
+        "Display Name": "Nara Gleicy Santiago Sales",
+        "Telephone Number": "7785",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "nara.sales"
+    },
+    {
+        "Display Name": "Estefani - Aprendiz 01",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DP",
+        "sAMAccountName": "aprendiz.rh01"
+    },
+    {
+        "Display Name": "Estefani - Aprendiz 02",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DP",
+        "sAMAccountName": "aprendiz.rh02"
+    },
+    {
+        "Display Name": "Daniel Gauer",
+        "Telephone Number": "N/A",
+        "E-mail": "daniel.gauer@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "daniel.gauer"
+    },
+    {
+        "Display Name": "Vitor Ribeiro da Silva Administrado",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "admin.vitors"
+    },
+    {
+        "Display Name": "Everton Luis Stacke",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "everton.stacke"
+    },
+    {
+        "Display Name": "Jerlan do Nascimento da Silva",
+        "Telephone Number": "9856",
+        "E-mail": "jerlan.silva@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "jerlan.silva"
+    },
+    {
+        "Display Name": "Geison Elias Welter",
+        "Telephone Number": "N/A",
+        "E-mail": "geison.welter@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "geison.welter"
+    },
+    {
+        "Display Name": "Alexandre Engler",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Gerência",
+        "sAMAccountName": "alexandre"
+    },
+    {
+        "Display Name": "João Vitor Santiago da SIlva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Pre-Fabricado",
+        "sAMAccountName": "vitor.santiago"
+    },
+    {
+        "Display Name": "Wesley Rabelo Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Pre-Fabricado",
+        "sAMAccountName": "wesley.lima"
+    },
+    {
+        "Display Name": "Jose Alves da Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "jose.alves"
+    },
+    {
+        "Display Name": "Francisco Clemilson Andrade Silva",
+        "Telephone Number": "9856",
+        "E-mail": "clemilson.silva@coopershoes.com.br",
+        "OU": "EVA",
+        "sAMAccountName": "clemilson.silva"
+    },
+    {
+        "Display Name": "Ana Thalia Chagas da Silva Angelo",
+        "Telephone Number": "9967",
+        "E-mail": "thalia.angelo@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "thalia.angelo"
+    },
+    {
+        "Display Name": "Firejet Ceara 06",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "firejet.ce06"
+    },
+    {
+        "Display Name": "Milian Keyla Rabelo Pinheiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "milian.pinheiro"
+    },
+    {
+        "Display Name": "Jose Joaquim Rodrigues Neto",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "joaquim.rodrigues"
+    },
+    {
+        "Display Name": "Carla Germana Maia Bezerra",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "RH",
+        "sAMAccountName": "carla.bezerra"
+    },
+    {
+        "Display Name": "Maria Eduarda Da SIlva Queiroz",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "eduarda.queiroz"
+    },
+    {
+        "Display Name": "Elen Wildner",
+        "Telephone Number": "N/A",
+        "E-mail": "elen.wildner@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "elen.wildner"
+    },
+    {
+        "Display Name": "Luis Felipe Stacke",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "felipe.stacke"
+    },
+    {
+        "Display Name": "Francisco Riberto Ribeiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "DSO",
+        "sAMAccountName": "francisco.riberto"
+    },
+    {
+        "Display Name": "Jessiane Carla Santiago dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "jessiane.santos"
+    },
+    {
+        "Display Name": "Felipe Nascimento Castro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "felipe.castro"
+    },
+    {
+        "Display Name": "Mariene da Silva Pinheiro",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "mariene.pinheiro"
+    },
+    {
+        "Display Name": "Tarsila Lavinia Sousa Xavier",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "tarsila.xavier"
+    },
+    {
+        "Display Name": "Eliete Carvalho",
+        "Telephone Number": "457",
+        "E-mail": "eliete.carvalho@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "eliete.carvalho"
+    },
+    {
+        "Display Name": "Daislane Costa Baia do Ó",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "daislane.baia"
+    },
+    {
+        "Display Name": "Gilmara de Freitas Rabelo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "gilmara.rabelo"
+    },
+    {
+        "Display Name": "Carlos Eduardo Welter",
+        "Telephone Number": "N/A",
+        "E-mail": "carlos.welter@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "carlos.welter"
+    },
+    {
+        "Display Name": "Irani Leoni Kempf",
+        "Telephone Number": "N/A",
+        "E-mail": "irani.kempf@coopershoes.com.br",
+        "OU": "Modelagem Converse",
+        "sAMAccountName": "irani.kempf"
+    },
+    {
+        "Display Name": "Andréia Neves Romano",
+        "Telephone Number": "N/A",
+        "E-mail": "andreia.romano@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "andreia.romano"
+    },
+    {
+        "Display Name": "Jose Estenio de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Costura",
+        "sAMAccountName": "estenio.oliveira"
+    },
+    {
+        "Display Name": "Rodrigo Alencar de Araujo",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "rodrigo.araujo"
+    },
+    {
+        "Display Name": "Roberta Enzweiler Dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "roberta.enzweiler@coopershoes.com.br",
+        "OU": "SAC",
+        "sAMAccountName": "roberta.enzweiler"
+    },
+    {
+        "Display Name": "Joyce Claudia de Melo Figueiredo Matos",
+        "Telephone Number": "N/A",
+        "E-mail": "joyce.matos@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "joyce.matos"
+    },
+    {
+        "Display Name": "Suzi de Sousa Maia Alcantara",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Recepção",
+        "sAMAccountName": "suzi.alcantara"
+    },
+    {
+        "Display Name": "Lucas dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "lucas.santos@coopershoes.com.br",
+        "OU": "Expedicao",
+        "sAMAccountName": "lucas.santos"
+    },
+    {
+        "Display Name": "Ana kemilly Paiva da Silva",
+        "Telephone Number": "9869",
+        "E-mail": "kemilly.silva@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "kemilly.silva"
+    },
+    {
+        "Display Name": "Beatriz Brenda da Silva",
+        "Telephone Number": "9951",
+        "E-mail": "beatriz.brenda@coopershoes.com.br",
+        "OU": "Programacao Producao",
+        "sAMAccountName": "beatriz.brenda"
+    },
+    {
+        "Display Name": "Samanda Cristina Viana de Oliveira",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "samanda.oliveira"
+    },
+    {
+        "Display Name": "Paula Vanessa Sousa Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Manutencao",
+        "sAMAccountName": "paula.santos"
+    },
+    {
+        "Display Name": "José Wilson de Oliveira",
+        "Telephone Number": "9918",
+        "E-mail": "wilson.oliveira@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "wilson.oliveira"
+    },
+    {
+        "Display Name": "Julio Victor Batista Alves",
+        "Telephone Number": "9918",
+        "E-mail": "julio.alves@coopershoes.com.br",
+        "OU": "Corte",
+        "sAMAccountName": "julio.alves"
+    },
+    {
+        "Display Name": "Adrieli Marconi Prates",
+        "Telephone Number": "N/A",
+        "E-mail": "adrieli.prates@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "adrieli.prates"
+    },
+    {
+        "Display Name": "pdf",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "pdf"
+    },
+    {
+        "Display Name": "Evna Jamylly Freitas de Almeida",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "RH",
+        "sAMAccountName": "evna.almeida"
+    },
+    {
+        "Display Name": "Lucas Soares de Sousa",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "MEP",
+        "sAMAccountName": "lucas.sousa"
+    },
+    {
+        "Display Name": "Lucas Silva Nobre",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "lucas.nobre"
+    },
+    {
+        "Display Name": "Ana Luiza Martins Miranda",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Corte",
+        "sAMAccountName": "ana.miranda"
+    },
+    {
+        "Display Name": "Marcio Pereira de Andrade",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "marcio.andrade"
+    },
+    {
+        "Display Name": "Nicolle Bergmann dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "nicolle.bergmann@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "nicolle.bergmann"
+    },
+    {
+        "Display Name": "Andrei Kuhn",
+        "Telephone Number": "635",
+        "E-mail": "almoxarifado@topshoescalcados.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "andrei.kuhn"
+    },
+    {
+        "Display Name": "Cleber Treis",
+        "Telephone Number": "N/A",
+        "E-mail": "cleber@treis.com.br",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "treis01"
+    },
+    {
+        "Display Name": "Paulo Treis",
+        "Telephone Number": "N/A",
+        "E-mail": "paulo@treis.com.br",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "treis02"
+    },
+    {
+        "Display Name": "Fernando Treis",
+        "Telephone Number": "N/A",
+        "E-mail": "fernando@treis.com.br",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "treis03"
+    },
+    {
+        "Display Name": "Nadiele Lais Michel",
+        "Telephone Number": "N/A",
+        "E-mail": "nadiele.michel@coopershoes.com.br",
+        "OU": "Escritorio",
+        "sAMAccountName": "nadiele.michel"
+    },
+    {
+        "Display Name": "Gabriel Lubenow",
+        "Telephone Number": "N/A",
+        "E-mail": "gabriel.lubenow@cooperhsoes.com.br",
+        "OU": "Melhoria Continua",
+        "sAMAccountName": "gabriel.lubenow"
+    },
+    {
+        "Display Name": "Paulo Roberto Sousa Costa",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Faturamento",
+        "sAMAccountName": "paulo.costa"
+    },
+    {
+        "Display Name": "PDV03",
+        "Telephone Number": "N/A",
+        "E-mail": "implantacao@makertec.com.br",
+        "OU": "Makertec",
+        "sAMAccountName": "pdv03"
+    },
+    {
+        "Display Name": "LOFTY01",
+        "Telephone Number": "N/A",
+        "E-mail": "suporte@loftytec.com",
+        "OU": "Lofty",
+        "sAMAccountName": "lofty01"
+    },
+    {
+        "Display Name": "Daniel Silva dos Santos",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "daniel.santos"
+    },
+    {
+        "Display Name": "Italo Regis Pereira Damasceno",
+        "Telephone Number": "9915",
+        "E-mail": "italo.damasceno@coopershoes.com.br",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "italo.damasceno"
+    },
+    {
+        "Display Name": "Ramon Renan Holschuh",
+        "Telephone Number": "N/A",
+        "E-mail": "ramon.holschuh@coopershoes.com.br",
+        "OU": "Modelagem Tecnica II",
+        "sAMAccountName": "ramon.holschuh"
+    },
+    {
+        "Display Name": "Bruno Arnold",
+        "Telephone Number": "N/A",
+        "E-mail": "bruno.arnold@coopershoes.com.br",
+        "OU": "Serigrafia",
+        "sAMAccountName": "bruno.arnold"
+    },
+    {
+        "Display Name": "Kauanne Kelvia Ferreira Rodrigues",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "kauanne.rodrigues"
+    },
+    {
+        "Display Name": "Luana Beserra da Silva",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Almoxarifado",
+        "sAMAccountName": "luana.silva"
+    },
+    {
+        "Display Name": "Ester Adna",
+        "Telephone Number": "N/A",
+        "E-mail": "ester.silva@infracomerce.com.br",
+        "OU": "Não Trocar a Senha",
+        "sAMAccountName": "ester.adna"
+    },
+    {
+        "Display Name": "Danilo Masetto Nascimento",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Serigrafia",
+        "sAMAccountName": "danilo.nascimento"
+    },
+    {
+        "Display Name": "Cleivin de Moura Lauermann",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "Escritorio",
+        "sAMAccountName": "cleivin.lauermann"
+    },
+    {
+        "Display Name": "Lidiane Magali Zimmer",
+        "Telephone Number": "314",
+        "E-mail": "lidiane.zimmer@coopershoes.com.br",
+        "OU": "Contabilidade",
+        "sAMAccountName": "lidiane.zimmer"
+    },
+    {
+        "Display Name": "Laboratorio Ceará",
+        "Telephone Number": "9956",
+        "E-mail": "laboratorio.ce@coopershoes.com.br",
+        "OU": "Laboratorio",
+        "sAMAccountName": "laboratorio.ce"
+    },
+    {
+        "Display Name": "Nívea dos Santos Brill",
+        "Telephone Number": "248",
+        "E-mail": "nivea.brill@coopershoes.com.br",
+        "OU": "Modelagem Tecnica III",
+        "sAMAccountName": "nivea.brill"
+    },
+    {
+        "Display Name": "Ana Julia Schons de Souza",
+        "Telephone Number": "215",
+        "E-mail": "ana.souza@coopershoes.com.br",
+        "OU": "Notas",
+        "sAMAccountName": "ana.souza"
+    },
+    {
+        "Display Name": "Camile Vitoria Schons Buss",
+        "Telephone Number": "330",
+        "E-mail": "camile.schons@coopershoes.com.br",
+        "OU": "Comercial",
+        "sAMAccountName": "camile.schons"
+    },
+    {
+        "Display Name": "Raul Pereira Lima",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "SSMA",
+        "sAMAccountName": "raul.lima"
+    },
+    {
+        "Display Name": "Camila Freitas de Oliveira",
+        "Telephone Number": "226",
+        "E-mail": "camila.oliveira@coopershoes.com.br",
+        "OU": "Qualidade",
+        "sAMAccountName": "camila.oliveira"
+    },
+    {
+        "Display Name": "USERS INFO",
+        "Telephone Number": "N/A",
+        "E-mail": "N/A",
+        "OU": "TI",
+        "sAMAccountName": "users.info"
+    }
+]
