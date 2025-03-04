@@ -4,7 +4,7 @@ Programa de busca de usuários cadastrados no Active Directory via Nome, Telefon
 # Altere os parâmetros do `.env` conforme seu servidor de AD local;
 
 AD_SERVER=ldap://192.168.0.0                  - seu ip do servidor
-AD_USER=usuário.cadastrado@seudominio.com.br  - user no AD com visibilidade
+AD_USER=usuario.cadastrado @ seudominio         - user no AD com visibilidade
 AD_PASSWORD=SuaSenha123                       - senha do user
 
 # Ajuste também onde serão feitas as buscas da OUs:
